@@ -4,7 +4,7 @@ title:  "HelSec January 2019 meetup"
 date:   2019-01-17 17:30:00 +0300
 categories: meetup
 meetup_link: https://www.meetup.com/HelSec/events/257030312/
-host: sanoma
+host: Sanoma
 ---
 **UPDATE**: Please enter the premises from the northeastern entrance (opposite to Oodi, by Töölönlahdenkatu). The event is "downstairs" from said entrance. ****
 
