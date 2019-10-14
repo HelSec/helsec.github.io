@@ -1,25 +1,12 @@
 
 @charset "UTF-8";
 
-body {
-  font-family: "Inconsolata";
-  color: #F5F5F5;
+.sidebar {
   background-color: #333333;
 }
-
-a {
-  color: #F5F5F5;
-}
-
-.page-title {
-  margin-top: 10%;
-  margin-bottom: 125px;
+.sidebar .links {
+  font-family: "Inconsolata";
   text-align: center;
-}
-
-.page-title__description{
-  padding-top: 5%;
-  font-size: x-large;
 }
 
 /* Source: http://codepen.io/bulby97/pen/fcvay */
