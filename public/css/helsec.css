@@ -23,14 +23,68 @@
 ul.events {
   padding-left: 0;
 }
-li { list-style: none }
+li.event { 
+  list-style: none;
+  margin-bottom: 1em;
+}
+li.event.past {
+  text-decoration: line-through
+}
 .emoji-icon {
   display: inline-block;
   width: 25px;
   padding-right: 5px;
   text-align: right
 }
+li.organizer {
+  display: inline-block;
+  padding: 10px;
+  margin-right: 20px;
+  background-color: #3c0d64;;
+  -webkit-border-radius: 10px;
+-moz-border-radius: 10px;
+border-radius: 10px;
+text-align:center;
 
+}
+li.organizer img {
+  vertical-align: middle;
+  margin: 0 auto;
+  border-radius: 100%;
+}
+li.organizer p {
+  color: white
+}
+.list-inline {
+  padding-left: 0;
+  list-style: none;
+}
+.list-inline > li {
+  display: inline-block;
+  padding-left: 5px;
+  padding-right: 5px;
+
+}
+
+.btn-social {
+  display: inline-block;
+  width: 50px;
+  height: 50px;
+  border: 2px solid #fff;
+  border-radius: 100%;
+  text-align: center;
+  font-size: 20px;
+  line-height: 45px;
+}
+.btn-outline {
+  margin-top: 15px;
+  border: solid 2px #fff;
+  font-size: 20px;
+  color: 
+  #fff;
+  background: 0 0;
+  transition: all .3s ease-in-out;
+}
 /* Source: http://codepen.io/bulby97/pen/fcvay */
 .glitch {
   position: relative;

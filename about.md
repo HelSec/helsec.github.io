@@ -4,18 +4,23 @@ permalink: /about/
 
 layout: page
 ---
-
-
 Cybersecurity group by the community, for the community.
 
-## Org
+<div>
+<h2>Organizers</h2>
+{% for organizer in site.data.organizers %}
 
-Osku
-
-Whois
-
-Hasanen
+  <li class="organizer">
+    <img src="/assets/avatars/{{organizer.nickname}}.png" height="100px">
+    <p> {{organizer.nickname}} </p>
+    <ul class="list-inline qtext-center">
+    <li><a href="{{organizer.twitter}}" class="btn-social btn-outline"><i class="fa fa-fw fa-twitter"></i></a></li>
+    <li><a href="{{organizer.linkedin}}" class="btn-social btn-outline"><i class="fa fa-fw fa-linkedin"></i></a></li>
+    </ul>
+  </li>
+{% endfor %}
+</div>
 
 ## Contact
 
-Drop as an email to {{ site.email }}
+Drop us an email to {{ site.email }}
