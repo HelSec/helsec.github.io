@@ -5,6 +5,7 @@ date:   2019-04-16 17:30:00 +0300
 categories: meetup
 meetup_link: https://www.meetup.com/HelSec/events/259959391/
 host: SANS
+logo: sans-logo.png
 ---
 Welcome to the HelSec April 2019 meetup! We will have three speakers from the infosec / cybersecurity industry and beverages will be provided. This event is powered by SANS.
 

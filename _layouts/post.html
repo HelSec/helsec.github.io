@@ -5,6 +5,10 @@ layout: default
 <div class="post">
   <h1 class="post-title">{{ page.title }}</h1>
   <span class="post-date">{{ page.date | date_to_string }}</span>
+  {% if page.host %}
+  <span class="sponsor"><img src="/assets/img/{{page.logo}}" alt="{{page.host}}" title="{{page.host}}" /></span>
+  {% endif %}
+  <p><span class="emoji-icon">‼️ </span> <a href="{{ page.meetup_link }}">RSVP</a> at meetup.com</p>
   {{ content }}
 </div>
 

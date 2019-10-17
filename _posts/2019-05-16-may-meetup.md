@@ -5,6 +5,7 @@ date:   2019-05-16 18:30:00 +0300
 categories: meetup
 meetup_link: https://www.meetup.com/HelSec/events/260723964/
 host: F-Secure
+logo: f-secure-logo.png
 ---
 Welcome to the HelSec May 2019 meetup! We will have two speakers from the infosec / cybersecurity industry and beverages will be provided. This event is powered by F-Secure.
 

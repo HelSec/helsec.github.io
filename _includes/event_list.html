@@ -23,6 +23,9 @@
     {% endif %}
 
     <li class="event {{event_class}}">
+        {% if post.host %}
+        <span class="sponsor"><img src="/assets/img/{{post.logo}}" alt="{{post.host}}" title="{{post.host}}" /></span>
+        {% endif %}
       <span class="emoji-icon">{{include.emoji}}</span> <a href="{{ post.url }}">{{ post.title }}</a><br />
       <span class="emoji-icon">🗓</span> {{post.date | date: "%Y-%m-%d"}}<br />
       <span class="emoji-icon">‼️ </span> <a href="{{ post.meetup_link }}">RSVP</a> at meetup.com

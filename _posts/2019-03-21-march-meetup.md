@@ -5,6 +5,7 @@ date:   2019-03-21 17:30:00 +0300
 categories: meetup
 meetup_link: https://www.meetup.com/HelSec/events/259193224/
 host: Nixu
+logo: nixu-logo.svg
 ---
 Welcome to the HelSec March 2019 meetup! We will have two speakers from the infosec / cybersecurity industry and beverages will be provided. This event is powered by Nixu.
 
