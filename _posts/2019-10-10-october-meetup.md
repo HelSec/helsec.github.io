@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "HelSec February 2019 meetup"
+title:  "HelSec October 2019 meetup"
 date:   2019-10-10 17:30:00 +0300
 categories: meetup
 meetup_link: https://www.meetup.com/HelSec/events/258218730/

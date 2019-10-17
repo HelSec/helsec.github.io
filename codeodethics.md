@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Code of Ethics
-permalink: /coe/
+permalink: /code-of-ethics/
 ---
 
 Our code of ethics
@@ -16,4 +16,4 @@ Take control of your choices without fear. Create, shape or modify to improve wh
     Avoid FUD (Fear Uncertainty and Doubt)
     Protect everyones data (encryption etc.)
     Don't be an asshole
-    If you see someone being an asshole contact: helsec@disobey.fi
+    If you see someone being an asshole contact: {{site.email }} 

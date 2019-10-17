@@ -1,0 +1,29 @@
+{% assign events = site.posts | where: 'categories', include.type %}
+{% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}
+{% assign upcoming_events = false %}
+
+{% if include.show_all_events %}
+{% capture title %}{{include.type}}s{% endcapture %}
+{% else %}
+{% capture title %}Upcoming {{include.type}}s{% endcapture %}
+{% endif %}
+
+
+<h2>{{title |capitalize}}</h2>
+
+<ul class="events">
+    {% for post in events %}
+    {% capture posttime %}{{post.date | date: '%s'}}{% endcapture %}
+    {% if posttime > nowunix %}
+    {% assign show_no_upcoming = include.show_all_events %}
+    <li class="event">
+      <span class="emoji-icon">{{include.emoji}}</span> <a href="{{ post.url }}">{{ post.title }}</a><br />
+      <span class="emoji-icon">🗓</span> {{post.date | date: "%Y-%m-%d"}}<br />
+      <span class="emoji-icon">‼️ </span> <a href="{{ post.meetup_link }}">RSVP</a> at meetup.com
+    </li>
+    {% endif %}
+  {% endfor %}
+  {% if show_no_upcoming %}
+  <li><span class="emoji-icon">❌</span>No upcoming {{include.type}}s</li>
+  {% endif %}
+</ul>
