@@ -16,4 +16,4 @@ Take control of your choices without fear. Create, shape or modify to improve wh
     Avoid FUD (Fear Uncertainty and Doubt)
     Protect everyones data (encryption etc.)
     Don't be an asshole
-    If you see someone being an asshole contact: {{site.email }} 
+    If you see someone being an asshole contact: security@helsec.fi
