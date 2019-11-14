@@ -1,0 +1,16 @@
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
+layout: page
+title: Events
+permalink: /events/
+---
+
+<div class="columns">
+<div class="left"> 
+    {% include event_list.html type="meetup" emoji="🎉" show_all_events=true %}
+</div>
+<div class="right"> 
+    {% include event_list.html type="workshop" emoji="💻" show_all_events=true %}
+</div> 
