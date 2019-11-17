@@ -1,7 +1,9 @@
 ---
 layout: page
 title: Rules
-permalink: /rules/
+category: page-helsec
+permalink: /helsec/rules
+order: 4
 ---
 
 Only in finnish.
