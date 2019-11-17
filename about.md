@@ -1,9 +1,11 @@
 ---
 title: About
-permalink: /about/
 
 layout: page
+category: page-about
+permalink: /about
 ---
+
 Cybersecurity group by the community, for the community.
 
 <div>

@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Code of Ethics
-permalink: /code-of-ethics/
+category: page-codeofethics
+permalink: /code-of-ethics
 ---
 
 Our code of ethics
