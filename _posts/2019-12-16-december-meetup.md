@@ -16,7 +16,7 @@ Welcome to the HelSec Decembeer 2019 meetup! We will have two awesome speakers f
 **17:30** Doors open  
 **18:00** Word by HelSec  
 **18:05** Intro & welcome by Smartly.io  
-**18:15** TBD by Joosua Santasalo  
+**18:15** "Perimeter(less/mess) in the age of cloud" by Joosua Santasalo  
 **19:00** Q&A, networking, beverages  
 **19:15** "Arms race in the internet" by Mikko Hyppönen  
 **20:00** Q&A, networking and pystyy vetää!
