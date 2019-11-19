@@ -1,8 +1,8 @@
-# website
+# HelSec Ry website
 
-www.helsec.fi under construction.
+Everyone is welcome to contribute for our website https://helsec.fi !
 
-Contact:
-- helsec [at] disobey.fi
-- https://twitter.com/HelSecurity
-- https://www.meetup.com/HelSec/
+## Contact details
+- Email: contact [at] helsec.fi
+- Twitter: https://twitter.com/HelSecurity
+- Meetup: https://www.meetup.com/HelSec/
