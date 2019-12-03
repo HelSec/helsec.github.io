@@ -18,11 +18,15 @@ Welcome to the HelSec Decembeer 2019 meetup! We will have two awesome speakers f
 **18:05** Intro & welcome by Smartly.io  
 **18:15** "Perimeter(less/mess) in the age of cloud" by Joosua Santasalo  
 **19:00** Q&A, networking, beverages  
-**19:15** "Arms race in the internet" by Mikko Hyppönen  
-**20:00** Q&A, networking and pystyy vetää!
+**19:15** "Reeling in the deep" by Joakim Tauren  
+**20:00** Q&A, networking, beverages  
+**20:15** "Arms race in the internet" by Mikko Hyppönen  
+**21:00** Q&A, networking and pystyy vetää!
 
 ## Speaker bio:
 
 _Joosua Santasalo_ - Senior Consultant at Nixu Corporation
+
+_Joakim Tauren_ - AppSec Architect at Visma, Häjy at HäjySec
 
 _Mikko Hyppönen_ - Herrasmieshakkeri at Herrasmieshakkerit, Employee at F-Secure
