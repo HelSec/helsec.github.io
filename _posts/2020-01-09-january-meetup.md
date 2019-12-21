@@ -22,6 +22,7 @@ Welcome to the HelSec January 2020 meetup, our 1ST anniversary! 🥳We will have
 **21:00** Q&A, networking and pystyy vetää!
 
 Speaker bio:
+
 _Nina "ninnnu" Kuisma_ - Sysadmin at Cybercom Finland
 
 _Flavia Koskivaara_ - SME at Nixu Corporation
