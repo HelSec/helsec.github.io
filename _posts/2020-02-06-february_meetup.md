@@ -3,7 +3,7 @@ layout: post
 title:  "HelSec February 2020 meetup"
 date:   2020-02-06 17:30:00 +0300
 categories: meetup
-meetup_link: https://www.meetup.com/HelSec/events/267337359://www.meetup.com/HelSec/events/267828491/ 
+meetup_link: https://www.meetup.com/HelSec/events/267828491/ 
 host: Transcendent Group
 logo: transcendent-logo.jpg
 published: true
