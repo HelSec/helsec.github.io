@@ -15,6 +15,9 @@
   font-size: 0.85em;
   margin-left: 1.5em;
 }
+.sidebar img {
+  width: 50px;
+}
 
 .columns {
   display: grid;
@@ -100,6 +103,10 @@ li.organizer p {
   color: #fff;
   background: 0 0;
   transition: all 0.3s ease-in-out;
+}
+
+ul.supporters {
+  list-style: none;
 }
 /* Source: http://codepen.io/bulby97/pen/fcvay */
 .glitch {

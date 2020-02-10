@@ -43,5 +43,12 @@
       &nbsp;&nbsp;
       <a href="mailto:{{ site.email }}"><i class="fa fa-envelope"></i></a>
     </p>
+    <div class="supporters">
+      <p>Supporters for year 2020: <br/>
+        {% for supporter in site.data.supporters[2020] %}
+        <img src="{{ site.baseurl }}assets/img/{{ supporter["logo_img"] }}" title="{{ supporter["name"] }}" alt="{{ supporter["name"] }}"/>
+        {% endfor %}
+      </p>
+    </div>
   </div>
 </div>
