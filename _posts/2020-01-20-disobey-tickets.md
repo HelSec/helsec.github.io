@@ -3,7 +3,7 @@ layout: announcement
 title:  "We have 2 tickets to Disobey 2020 to share!"
 date:   2020-02-20 18:00:00 +0300
 categories: announcements
-frontpage: true
+frontpage: false
 published: true
 ---
 
