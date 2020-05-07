@@ -8,7 +8,9 @@ layout: default
   {% if page.host %}
   <span class="sponsor"><img src="/assets/img/{{page.logo}}" alt="{{page.host}}" title="{{page.host}}" /></span>
   {% endif %}
+  {%if post.meetup_link %}
   <p><span class="emoji-icon">‼️ </span> <a href="{{ page.meetup_link }}">RSVP</a> at meetup.com</p>
+  {% endif %}
   {{ content }}
 </div>
 
