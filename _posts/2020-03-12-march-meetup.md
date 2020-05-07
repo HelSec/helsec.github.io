@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "HelSec Marc 2020 meetup"
+title:  "HelSec March 2020 meetup"
 date:   2020-03-12 17:30:00 +0300
 categories: meetup
 meetup_link: https://www.meetup.com/HelSec/events/268532789/
