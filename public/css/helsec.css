@@ -17,6 +17,7 @@
 }
 .sidebar .supporters img {
   width: 50px;
+  display: inline;
 }
 
 .columns {
