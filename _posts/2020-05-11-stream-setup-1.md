@@ -1,12 +1,12 @@
 ---
-layout: announcement
+layout: blog
 title:  "HelSec virtual meetup stream setup, part 1"
 date:   2020-05-11 13:00:00 +0300
 categories: blog
 published: true
+author: osku
+author-link: https://twitter.com/oh2osq
 ---
-
-*by [osku](https://twitter.com/oh2osq)*
 
 Our first meetup was a success -- it seems the audience liked it, and
 from my point of view, the stream setup was easy to use and we didn't
