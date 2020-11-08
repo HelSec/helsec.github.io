@@ -3,7 +3,7 @@ layout: post
 title:  "HelSec Virtual meetup 4"
 date:   2020-11-18 18:00:00 +0200
 categories: meetup
-meetup_link: https://www.meetup.com/HelSec/events/272479383
+meetup_link: https://www.meetup.com/HelSec/events/274408037
 logo: helsec-virtual.jpg
 host: Virtual
 published: true
