@@ -16,7 +16,7 @@ Join the discussion on Discord: [https://discord.gg/NBvCAm8](https://discord.gg/
 ## Schedule
 
 **18:00** Stream start and word by HelSec  
-**18:15** TBA  
+**18:15** "That time they almost got us" by Joakim Tauren  
 **19:00** Short break  
 **19:15** TBA  
 **20:00** Short break  
@@ -26,7 +26,7 @@ Join the discussion on Discord: [https://discord.gg/NBvCAm8](https://discord.gg/
 All times are in EET (UTC +2).
 
 ## Speaker bio
-_TBA_
+_Joakim Tauren_ Application Security Architect at Visma, Dad, hobby wood worker, aspiring communicator. Helping development teams in Visma be more secure, with tools, services and knowledge.
 
 _TBA_
 

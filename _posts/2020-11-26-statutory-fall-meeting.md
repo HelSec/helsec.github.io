@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Invitation to HelSec statutory fall meeting"
-date:   2020-11-26 19:00:00 +200
+date:   2020-11-26 19:00:00 +0200
 categories: meetup
 logo: helsec-logo-black.png
 host: Virtual
