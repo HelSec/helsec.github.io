@@ -20,7 +20,7 @@ Join the discussion on Discord: [https://discord.gg/NBvCAm8](https://discord.gg/
 **19:00** Short break  
 **19:15** "Fundamentals of threat detection in OT/ICS environments" by Pietari Sarjakivi  
 **20:00** Short break  
-**20:15** "Mechanically harassing innocent Disobey badges - The rise of RubberHeikki🍆" by Heikki Stark  
+**20:15** "Modifying Disobey badges - Project RubberHeikki" by Heikki Stark  
 **21:00** Virtual conference end - Virtual networking and some pystyy vetää will continue on our Discord server  
 
 All times are in EET (UTC +2).
