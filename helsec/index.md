@@ -10,8 +10,4 @@ HelSec ry is a registered association in Finland. Most of the content under this
 
 ## Membership
 
-Current member fee is 20 € per year.
-
-To join HelSec ry, please fill the following form: [https://forms.gle/PRbLQXddCY9wZFoN6](https://forms.gle/PRbLQXddCY9wZFoN6)
-
-If you join now, you will get membership till the end of 2020.
+We're waiting for migration to FloMember to complete and will open member application once it's done. Stay tuned!
