@@ -15,27 +15,3 @@ As HelSec is a registered association, we have to arrange two statutory meetings
 In Finland PRH (Finnish Patent and Registration Office) does not recognize English as a main language of an association. Because of this, all documentation of the spring meeting will be in Finnish and later on translated to English for our non-Finnish-speaking members. Unfortunately, the meeting will be in Finnish as the material is in Finnish as well.
 
 The meeting agenda is [here](/assets/helsecry/2020-syyskokous/2020-fall-meeting-agenda.pdf).
-
-
-    Topic: HelSec Ry syyskokous 2020
-    Time: Nov 26, 2020 07:00 PM Helsinki
- 
- 
-    Join Zoom Meeting
-    https://zoom.us/j/95199942930?pwd=aGxZekJEbTB3dmtIVXpkTWpVeXVQUT09
-    
-    Meeting ID: 951 9994 2930
-    Passcode: PystyyVeto
-    One tap mobile
-    +358341092129,,95199942930#,,,,,,0#,,8267511423# Finland
-    +358942451488,,95199942930#,,,,,,0#,,8267511423# Finland
-    
-    Dial by your location
-            +358 3 4109 2129 Finland
-            +358 9 4245 1488 Finland
-            +358 9 7252 2471 Finland
-    Meeting ID: 951 9994 2930
-    Passcode: 8267511423
-    Find your local number: https://zoom.us/u/adCJ2rdbiy
-
-
