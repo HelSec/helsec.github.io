@@ -37,3 +37,12 @@ _Marjanah Sadiq_ - Student of embedded software and cybersecurity. Working as Re
 _Juho Jauhiainen_ - Co-Founder of HelSec, Information Security Specialist at NCSC-FI, Podcast host at Turvakäräjät, Former DFIR consultant, Forensics and Cyber Security Instructor at MPK Ry, volunteer at KyberVPK, CISSP, OSCP, GCFA, GREM, GMON, and forever a student (maybe someday his MSc (Tech.) studies will be ready).
 
 _Ossi Väänänen_ - Co-Founder of HelSec, Chief Security Architect at Sanoma, hacker (OSCP), volunteer at KyberVPK. An electrical engineer (M.Sc.) by training, software engineer and hacker by profession.
+
+
+## Slides
+
+[Marjanah Sadiq](/assets/slides/vm6_getting-started-with-homelab_ms.pdf)
+
+[Juho Jauhiainen](/assets/slides/vm6-whois-dfir-setup.pdf)
+
+[Ossi Väänänen](/assets/slides/vm6_osku-homelab.pdf)
