@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "HelSec Virtual meetup 6"
+title:  "Virtual Meetup: Home Labs"
 date:   2021-01-07 18:00:00 +0200
 categories: meetup
 meetup_link: https://www.meetup.com/HelSec/events/275548831/
@@ -9,7 +9,7 @@ host: Virtual
 published: true
 ---
 
-Welcome to the HelSec Special Virtual Meetup 6: Home Labs! 🤗
+Welcome to the HelSec Virtual Meetup: Home Labs! 🤗
 
 Join the discussion on Discord: [https://discord.gg/NBvCAm8](https://discord.gg/NBvCAm8)
 
