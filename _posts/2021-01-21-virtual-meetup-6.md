@@ -16,17 +16,11 @@ Join the discussion on Discord: [https://discord.gg/NBvCAm8](https://discord.gg/
 ## Schedule
 
 **18:00** Stream start and word by HelSec  
-
-**18:15** "Container Security: an overview" by Ilhan Gurel
-
-**19:00** Short break  
-
-**19:15** "My Brief History of Cybersecurity Exercises" by Anne Oikarinen
-
+**18:15** "Container Security: an overview" by Ilhan Gurel  
+**19:00** Short break   
+**19:15** "My Brief History of Cybersecurity Exercises" by Anne Oikarinen  
 **20:00** Short break  
-
-**20:15** "From zero to Yara" by Peeter Marvet
-
+**20:15** "From zero to Yara" by Peeter Marvet  
 **21:00** Virtual conference end - Virtual networking and some pystyy vetää will continue on our Discord server  
 
 All times are in EET (UTC +2).
