@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "HelSec Virtual meetup 6"
+title:  "HelSec Virtual meetup 7"
 date:   2021-02-18 18:00:00 +0200
 categories: meetup
 meetup_link: https://www.meetup.com/HelSec/events/275890123/
