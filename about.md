@@ -6,22 +6,11 @@ category: page-about
 permalink: /about
 ---
 
-Cybersecurity group by the community, for the community.
+HelSec Ry is a cybersecurity group by the community, for the community.
+
+HelSec was originally founded in 2018 so that security professionals and enthusiasts in the Helsinki region could meet and network with other like-minded people. The very first meetup took place in 2019. During the pandemic (COVID-19), HelSec currently organizes virtually held meetups regularly. We are active in social media; Twitter, IG, FB & LinkedIn.
 
 <div>
-<h2>Organizers</h2>
-{% for organizer in site.data.organizers %}
-
-  <li class="organizer">
-    <img src="/assets/avatars/{{organizer.nickname}}.png" height="100px">
-    <p> {{organizer.nickname}} </p>
-    <ul class="list-inline qtext-center">
-    <li><a href="{{organizer.twitter}}" class="btn-social btn-outline"><i class="fa fa-fw fa-twitter"></i></a></li>
-    <li><a href="{{organizer.linkedin}}" class="btn-social btn-outline"><i class="fa fa-fw fa-linkedin"></i></a></li>
-    </ul>
-  </li>
-{% endfor %}
-</div>
 
 ## Contact
 
