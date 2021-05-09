@@ -5,7 +5,6 @@ category: page-codeofethics
 permalink: /code-of-ethics
 ---
 
-Our code of ethics
 
 Take control of your choices without fear. Create, shape or modify to improve what's here. Find your own path and encourage others to find theirs.
 
