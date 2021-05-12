@@ -6,7 +6,7 @@ permalink: /helsec/rules
 order: 4
 ---
 
-Only in finnish.
+You'll find our rules below, unfortunately in Finnish only.
 
 # 1§ Yhdistyksen nimi ja kotipaikka
 
