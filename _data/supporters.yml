@@ -1,23 +1,30 @@
 2021:
   - name: 2NS
     logo_img: 2ns-logo.jpg
+    logo_sidebar: 2ns-logo.jpg
     website: https://www.2ns.fi/
   - name: Cinia
     logo_img: cinia-logo.png
+    logo_sidebar: cinia-logo.png
     website: https://www.cinia.fi
   - name: Elisa
     logo_img: elisa-logo.png
+    logo_sidebar: elisa-logo-white.png
     website: https://www.elisa.fi
   - name: Hoxhunt
     logo_img: hoxhunt-logo.jpg
+    logo_sidebar: hoxhunt-logo.jpg
     website: https://www.hoxhunt.com
   - name: Recorded Future
     logo_img: recordedfuture-logo.png
+    logo_sidebar: recordedfuture-logo-white.png
     website: https://www.recordedfuture.com
 2020:
   - name: Nixu Oyj
     logo_img: nixu-logo.svg
+    logo_sidebar: nixu-logo.svg
     website: https://www.nixu.com/
   - name: 2NS
     logo_img: 2ns-logo.jpg
+    logo_sidebar: 2ns-logo.jpg
     website: https://www.2ns.fi

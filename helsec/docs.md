@@ -8,6 +8,16 @@ order: 3
 
 In here you can find documents from the gatherings (in finnish).
 
+## 2021 Kevätkokous
+
+* [Agenda](/assets/helsecry/2021-kevatkokous/2021-spring-meeting-agenda.pdf)
+* [Toimintakertomus 2020](/assets/helsecry/2021-kevatkokous/HelSec_Toimintakertomus_2020.pdf)
+* [Toiminnan tarkastus 2020](/assets/helsecry/2021-kevatkokous/HelSec_Toiminnantarkastuskertomus_2020.pdf)
+
+## 2020 Syyskokus
+
+* [Agenda](/assets/helsecry/2020-syyskokous/2020-fall-meeting-agenda.pdf)
+
 ## 2020 Kevätkokous
 
 * [Agenda](/assets/helsecry/2020-kevatkokous/2020-spring-meeting-agenda.pdf)

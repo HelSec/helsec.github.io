@@ -44,9 +44,9 @@
       <a href="mailto:{{ site.email }}"><i class="fa fa-envelope"></i></a>
     </p>
     <div class="supporters">
-      <p>Supporters for year 2020: <br/>
-        {% for supporter in site.data.supporters[2020] %}
-        <img src="{{ site.baseurl }}assets/img/{{ supporter["logo_img"] }}" title="{{ supporter["name"] }}" alt="{{ supporter["name"] }}"/>
+      <p>Supporters for year 2021: <br/>
+        {% for supporter in site.data.supporters[2021] %}
+        <a href="{{ supporter["website"]}}"><img src="{{ site.baseurl }}assets/img/{{ supporter["logo_sidebar"] }}" title="{{ supporter["name"] }}" alt="{{ supporter["name"] }}"/></a>
         {% endfor %}
       </p>
     </div>
