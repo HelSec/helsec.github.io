@@ -19,6 +19,10 @@
     logo_img: recordedfuture-logo.png
     logo_sidebar: recordedfuture-logo-small.png
     website: https://www.recordedfuture.com
+  - name: Nixu Oyj
+    logo_img: nixu-logo.svg
+    logo_sidebar: nixu-logo-nega.png
+    website: https://www.nixu.com/
 2020:
   - name: Nixu Oyj
     logo_img: nixu-logo.svg
