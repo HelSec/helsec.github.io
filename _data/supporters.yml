@@ -5,7 +5,7 @@
     website: https://www.2ns.fi/
   - name: Cinia
     logo_img: cinia-logo.png
-    logo_sidebar: cinia-logo.png
+    logo_sidebar: cinia-logo-white.png
     website: https://www.cinia.fi
   - name: Elisa
     logo_img: elisa-logo.png
@@ -23,6 +23,10 @@
     logo_img: nixu-logo.svg
     logo_sidebar: nixu-logo-nega.png
     website: https://www.nixu.com/
+  - name: Accenture Security
+    logo_img: accenture-logo.png
+    logo_sidebar: accenture-logo-white.png
+    website: https://www.accenture.com/security
 2020:
   - name: Nixu Oyj
     logo_img: nixu-logo.svg
