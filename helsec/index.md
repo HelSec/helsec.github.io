@@ -10,4 +10,4 @@ HelSec ry is a registered association in Finland. Most of the content under this
 
 ## Membership
 
-You can join HelSec Ry by filling [membership application](https://byte.flomembers.com/helsec/members/application).
+You can join HelSec Ry by filling [membership application](https://byte.flomembers.com/helsec/members/application). Or if you already are a member, you can login in https://byte.flomembers.com/helsec/user/login
