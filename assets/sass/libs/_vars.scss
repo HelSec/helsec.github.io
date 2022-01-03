@@ -1,0 +1,71 @@
+// Misc.
+	$misc: (
+		z-index-base:	10000
+	);
+
+// Duration.
+	$duration: (
+		navPanel: 0.5s
+	);
+
+// Size.
+	$size: (
+		navPanel: 275px
+	);
+
+// Font.
+	$font: (
+	);
+
+// Palette.
+	$palette: (
+		bg:				#f3f6fa,
+		fg:				#000000,
+		border:			transparentize(#000000, 0.8),
+
+		header: (
+			bg:			#000,
+			fg:			#fff,
+			alt-bg:		transparent,
+			alt-fg:		#fff
+		),
+
+		banner: (
+			bg:			#000000,
+			fg:			#fff,
+			inner-bg:	#000000,
+			inner-fg:	#fff
+		),
+
+		footer: (
+			bg:			#E8EEF4,
+			fg:			#7c8081
+		),
+
+		one: (
+			bg:			#fff,
+			fg:			#fff
+		),
+
+		two: (
+			bg:			#1c1c1c,
+			fg:			inherit
+		),
+
+		three: (
+			bg:			#C1272D,
+			fg:			#000
+		),
+
+		navPanel: (
+			bg:			#1c2021,
+			fg:			#fff
+		),
+
+		navButton: (
+			bg:			rgba(163,169,170,0.75),
+			fg:			#fff
+		),
+
+
+	);
