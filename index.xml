@@ -1,14 +1,299 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>[HelSec Ry] on HelSec Ry</title><link>https://helsec.fi/</link><description>Recent content in [HelSec Ry] on HelSec Ry</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Wed, 18 May 2022 18:00:00 +0300</lastBuildDate><atom:link href="https://helsec.fi/index.xml" rel="self" type="application/rss+xml"/><item><title/><link>https://helsec.fi/about/board/hammar_noora/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://helsec.fi/about/board/hammar_noora/</guid><description/></item><item><title/><link>https://helsec.fi/about/board/juurikko_riku/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://helsec.fi/about/board/juurikko_riku/</guid><description/></item><item><title/><link>https://helsec.fi/about/board/jauhiainen_juho/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://helsec.fi/about/board/jauhiainen_juho/</guid><description/></item><item><title/><link>https://helsec.fi/about/board/vaananen_ossi/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://helsec.fi/about/board/vaananen_ossi/</guid><description/></item><item><title/><link>https://helsec.fi/about/board/sadiq_marjanah/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://helsec.fi/about/board/sadiq_marjanah/</guid><description/></item><item><title/><link>https://helsec.fi/about/board/korte_keijo/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://helsec.fi/about/board/korte_keijo/</guid><description/></item><item><title>HelSec May 2022 meetup</title><link>https://helsec.fi/events/2022-05-18_helsec_may_2022_meetup/</link><pubDate>Wed, 18 May 2022 18:00:00 +0300</pubDate><guid>https://helsec.fi/events/2022-05-18_helsec_may_2022_meetup/</guid><description>❗ Registration will open for HelSec Ry registered members on Friday 13th of May. Information will be emailed to registered members. If there are available slots on Monday 16th of April 18:00 (EEST), we will open the registration here for non-registered members. More details about membership on https://helsec.fi
-Welcome to the HelSec May 2022 meetup! We will have two speakers from the infosec / cybersecurity industry and beverages will be provided.</description></item><item><title>HelSec x SCW</title><link>https://helsec.fi/events/2022-05-05_helsec_x_scw/</link><pubDate>Thu, 05 May 2022 17:00:00 +0300</pubDate><guid>https://helsec.fi/events/2022-05-05_helsec_x_scw/</guid><description>Secure Code Warrior Returns!!
-The event will be sponsored by Nordcloud :)
-Secure Code Warrior brings you a defensive security-based tournament from a developer&amp;rsquo;s perspective.
-The tournament allows you to test your skill against the other participants in a series of vulnerable code challenges that ask you to identify a problem, locate insecure code, and fix a vulnerability. You don’t need extensive programming knowledge as this will be a great way to learn the foundations and intermediates of leveraging code that is not only functional but is also secure.</description></item><item><title>HelSec April 2022 meetup</title><link>https://helsec.fi/events/2022-04-14_helsec_april_2022_meetup/</link><pubDate>Thu, 14 Apr 2022 18:00:00 +0300</pubDate><guid>https://helsec.fi/events/2022-04-14_helsec_april_2022_meetup/</guid><description>❗️ Update: Adding more slots
-❗ Update: There will be only 10 slots available through meetup.com as many of our registered members have signed up to the event.
-❗ Registration will open for HelSec Ry registered members on Thursday 31st of March. Information will be emailed to registered members. If there are available slots on Thursday 7th of April 18:00 (EEST), we will open the registration here for non-registered members. More details about membership on https://helsec.</description></item><item><title>HelSec Virtual Meetup #13</title><link>https://helsec.fi/events/2022-02-10_helsec_virtual_meetup_13/</link><pubDate>Thu, 10 Feb 2022 18:00:00 +0200</pubDate><guid>https://helsec.fi/events/2022-02-10_helsec_virtual_meetup_13/</guid><description>Welcome to the HelSec Virtual Meetup 13! 🤗
-Join the discussion on Discord: https://discord.gg/NBvCAm8
-18:00 - Stream start and word by HelSec
-18:15 - &amp;ldquo;Usage of BYOD &amp;amp; COTS in Military operations&amp;rdquo; by Sami Rautén
-19:00 - Short break
-19:15 - &amp;ldquo;UEBA in Cyber Security – My First Impressions&amp;rdquo; by Tomi Räsänen (the presentation will be held in Finnish)
-20:00 - Short break
-20:15 - &amp;ldquo;Adversary Infrastructure Report 2021: Back to Bots&amp;rdquo; by Greg Lesnewich</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>HelSec Ry</title><link>https://helsec.fi/</link><description>Recent HelSec Ry events</description><language>en-us</language><lastBuildDate>Wed, 18 May 2022 18:00:00 +0300</lastBuildDate><atom:link href="https://helsec.fi/index.xml" rel="self" type="application/rss+xml"/><item><title>HelSec May 2022 meetup</title><link>https://helsec.fi/events/2022-05-18_helsec_may_2022_meetup/</link><pubDate>Wed, 18 May 2022 18:00:00 +0300</pubDate><guid>https://helsec.fi/events/2022-05-18_helsec_may_2022_meetup/</guid><description>&lt;p>❗ Registration will open for HelSec Ry registered members on Friday 13th of May. Information will be emailed to registered members. If there are available slots on Monday 16th of April 18:00 (EEST), we will open the registration here for non-registered members. More details about membership on &lt;a href="https://helsec.fi">https://helsec.fi&lt;/a>&lt;/p>
+&lt;p>Welcome to the HelSec May 2022 meetup! We will have two speakers from the infosec / cybersecurity industry and beverages will be provided.&lt;/p>
+&lt;p>☀️ The temperature is 27 degrees and our dress code is &amp;ldquo;summer&amp;rdquo;. Make sure you&amp;rsquo;re dressed for the hottest beach club of the summer, with simple trousers or shorts and a t-shirt. You can leave your outerwear and winter shoes either in the coat rack (2nd floor) or in the lockable lockers in the changing room (1st floor). You can wear shoes or be barefoot, we recommend summer footwear.&lt;/p>
+&lt;p>18:00 - Doors open&lt;/p>
+&lt;p>18:30 - Word by HelSec&lt;/p>
+&lt;p>18:45 - &amp;ldquo;Locked Shields from Blue Team&amp;rsquo;s point of view - How Finland won?&amp;rdquo; by Pietari Sarjakivi&lt;/p>
+&lt;p>19:30 - Q&amp;amp;A, networking, beverages&lt;/p>
+&lt;p>19:45 - &amp;ldquo;Flubot - Pandemic in our pockets&amp;rdquo; by Juho Jauhiainen&lt;/p>
+&lt;p>20:30 - Q&amp;amp;A, networking, beverages&lt;/p>
+&lt;p>21:00 - Surf show by professional surfers 🏄🏻‍♀️🏄🏻‍♀️🏄🏻‍♀️&lt;/p>
+&lt;p>22:00 - Doors closed, let&amp;rsquo;s continue pystyy vetää elsewhere&lt;/p>
+&lt;p>This meetup will be streamed on Twitch: &lt;a href="https://twitch.tv/helsec">https://twitch.tv/helsec&lt;/a>&lt;/p>
+&lt;p>Speaker bio:&lt;br>
+🔷 Pietari Sarjakivi - Leader at Nixu, blue team trainer in National Defence Training Association of Finland, (MPK) and PhD student in University of Jyväskylä (JYU). He has been working with threat detection and response over a decade and in 2015 he founded Nixu Cyber Defense Center service that maintains customers’ operational cyber defense by offering premium prevention, detection and response services.&lt;br>
+🔷 Juho Jauhiainen - Juho is currently working for Accenture as a Lead Security Incident Investigator. In addition to his current position, he has DFIR and malware analysis experience from various private and public sector organizations, like The National Cyber Security Centre Finland (NCSC-FI). In his freetime, he co-hosts Finnish podcast Turvakäräjät, runs Helsinki security meetup group HelSec, and teaches forensics at National Defence Training Association of Finland. Juho is CISSP, GCFA, GMON, GREM and OSCP certified.&lt;/p></description></item><item><title>HelSec x SCW</title><link>https://helsec.fi/events/2022-05-05_helsec_x_scw/</link><pubDate>Thu, 05 May 2022 17:00:00 +0300</pubDate><guid>https://helsec.fi/events/2022-05-05_helsec_x_scw/</guid><description>&lt;p>Secure Code Warrior Returns!!&lt;/p>
+&lt;p>The event will be sponsored by Nordcloud :)&lt;/p>
+&lt;p>Secure Code Warrior brings you a defensive security-based tournament from a developer&amp;rsquo;s perspective.&lt;/p>
+&lt;p>The tournament allows you to test your skill against the other participants in a series of vulnerable code challenges that ask you to identify a problem, locate insecure code, and fix a vulnerability. You don’t need extensive programming knowledge as this will be a great way to learn the foundations and intermediates of leveraging code that is not only functional but is also secure.&lt;/p>
+&lt;p>You can find tournament step-by-step guide here: [&lt;a href="https://youtu.be/o8XhKK_eOOs%5D(https://youtu.be/o8XhKK_eOOs">https://youtu.be/o8XhKK_eOOs](https://youtu.be/o8XhKK_eOOs&lt;/a>)&lt;/p>
+&lt;p>The tournament is run virtually so you can join through your laptop. It should take only a few hours, drop-in as you see fit during the duration of the event to complete all the challenges and win prizes!&lt;/p>
+&lt;p>Instructions for playing:&lt;/p>
+&lt;ol>
+&lt;li>Register for the Secure Code Warrior platform here:[&lt;a href="https://discover.securecodewarrior.com/HelSec.html%5D(https://discover.securecodewarrior.com/HelSec.html">https://discover.securecodewarrior.com/HelSec.html](https://discover.securecodewarrior.com/HelSec.html&lt;/a>)&lt;/li>
+&lt;li>Check your email for the confirmation and access the unique link to create your profile.&lt;/li>
+&lt;li>Once logged in: click “Tournaments”&lt;/li>
+&lt;li>Join the tournament&lt;/li>
+&lt;/ol>
+&lt;p>Here are two short videos on previous tournaments:&lt;br>
+✖️OWASP UK Community: &lt;a href="https://www.youtube.com/watch?v=xQJAl1m0_DE">https://www.youtube.com/watch?v=xQJAl1m0_DE&lt;/a>&lt;br>
+Zip (FinTech): &lt;a href="https://www.youtube.com/watch?v=TC9j-sjxK84">https://www.youtube.com/watch?v=TC9j-sjxK84&lt;/a>&lt;/p>
+&lt;p>HelSec will reward the winner.&lt;/p>
+&lt;p>Requirements: Laptop💻&lt;/p>
+&lt;p>Doors open at the premises 16:30&lt;br>
+There will be snacks &amp;amp; refreshments on-site.&lt;/p></description></item><item><title>HelSec April 2022 meetup</title><link>https://helsec.fi/events/2022-04-14_helsec_april_2022_meetup/</link><pubDate>Thu, 14 Apr 2022 18:00:00 +0300</pubDate><guid>https://helsec.fi/events/2022-04-14_helsec_april_2022_meetup/</guid><description>&lt;p>❗️ Update: Adding more slots&lt;/p>
+&lt;p>❗ Update: There will be only 10 slots available through meetup.com as many of our registered members have signed up to the event.&lt;/p>
+&lt;p>❗ Registration will open for HelSec Ry registered members on Thursday 31st of March. Information will be emailed to registered members. If there are available slots on Thursday 7th of April 18:00 (EEST), we will open the registration here for non-registered members. More details about membership on &lt;a href="https://helsec.fi">https://helsec.fi&lt;/a>&lt;/p>
+&lt;p>Welcome to the HelSec April 2022 meetup! We will have three speakers from the infosec / cybersecurity industry and beverages will be provided. This event is powered by 2NS.&lt;/p>
+&lt;p>17:30 - Doors open&lt;/p>
+&lt;p>18:00 - Word by HelSec&lt;/p>
+&lt;p>18:15 - &amp;ldquo;World disorder: security outlook and implications&amp;rdquo; by V-P Kivimäki&lt;/p>
+&lt;p>19:00 - Q&amp;amp;A, networking, beverages&lt;/p>
+&lt;p>19:15 - &amp;ldquo;What do I do now?&amp;rdquo; by Heikki Stark&lt;/p>
+&lt;p>20:00 - Q&amp;amp;A, networking, beverages&lt;/p>
+&lt;p>20:15 - &amp;ldquo;OSINT data as part of profiling Key persons of your organization:&lt;br>
+Avoid The Hook&amp;rdquo; by Samuli Järvinen (NOTE: The talk will not be streamed / recorded)&lt;/p>
+&lt;p>21:00 - Q&amp;amp;A, networking, beverages, fun&lt;/p>
+&lt;p>21:30 - Doors closed, let&amp;rsquo;s continue pystyy vetää elsewhere&lt;/p>
+&lt;p>This meetup will be streamed on Twitch: &lt;a href="https://twitch.tv/helsec">https://twitch.tv/helsec&lt;/a>&lt;/p>
+&lt;p>Speaker bio:&lt;br>
+🔷 Veli-Pekka Kivimäki - Veli-Pekka is a Senior Analyst with the Finnish Security and Intelligence Service (Supo). He is also a researcher focusing on open-source intelligence (OSINT) and social media, an adjunct lecturer in Geospatial Intelligence at the Johns Hopkins University, and a visiting lecturer on OSINT at the University of Jyväskylä. He has also previously published analyses with the award-winning Bellingcat group.&lt;br>
+🔷 Heikki Stark - Heikki is a Security Consultant at WithSecure, but is also a volunteer at KyberVPK – Community Cyber Response Force&lt;br>
+🔷 Samuli Järvinen - Samuli is an entrepreneur. Prior his own business NUUH, he was working for CGI. He&amp;rsquo;s currently PhD Student at National Defense University and Tampere University.&lt;/p></description></item><item><title>HelSec Virtual Meetup #13</title><link>https://helsec.fi/events/2022-02-10_helsec_virtual_meetup_13/</link><pubDate>Thu, 10 Feb 2022 18:00:00 +0200</pubDate><guid>https://helsec.fi/events/2022-02-10_helsec_virtual_meetup_13/</guid><description>&lt;p>Welcome to the HelSec Virtual Meetup 13! 🤗&lt;/p>
+&lt;p>Join the discussion on Discord: &lt;a href="https://discord.gg/NBvCAm8">https://discord.gg/NBvCAm8&lt;/a>&lt;/p>
+&lt;hr>
+&lt;p>18:00 - Stream start and word by HelSec&lt;/p>
+&lt;p>18:15 - &amp;ldquo;Usage of BYOD &amp;amp; COTS in Military operations&amp;rdquo; by Sami Rautén&lt;/p>
+&lt;p>19:00 - Short break&lt;/p>
+&lt;p>19:15 - &amp;ldquo;UEBA in Cyber Security – My First Impressions&amp;rdquo; by Tomi Räsänen (the presentation will be held in Finnish)&lt;/p>
+&lt;p>20:00 - Short break&lt;/p>
+&lt;p>20:15 - &amp;ldquo;Adversary Infrastructure Report 2021: Back to Bots&amp;rdquo; by Greg Lesnewich&lt;/p>
+&lt;p>21:00 - Virtual conference end - Virtual networking and some pystyy vetää will continue on our Discord server&lt;/p>
+&lt;p>All times are in EET (UTC +2).&lt;/p>
+&lt;hr>
+&lt;p>Speaker bio:&lt;br>
+🔹 Sami Rautén is Junior Officer in Finnish Defence Forces working closely with C4ISR and BYOD.&lt;br>
+🔹 Tomi Räsänen is working at Accenture as Security Delivery analyst. He has been studying mathematics, automation, and business before his enthusiasm for developing security. In cyber security, he is particularly interested in the applications of machine learning.&lt;br>
+🔹 Greg Lesnewich is a threat intelligence analyst on Recorded Future&amp;rsquo;s Insikt Group, focused on creating methodologies for researching emerging malware, threat discovery, and tracking of adversary infrastructure.&lt;/p></description></item><item><title>HelSec November 2021 meetup</title><link>https://helsec.fi/events/2021-11-18_helsec_november_2021_meetup/</link><pubDate>Thu, 18 Nov 2021 17:30:00 +0200</pubDate><guid>https://helsec.fi/events/2021-11-18_helsec_november_2021_meetup/</guid><description>&lt;p>❗❗ UPDATE[masked]: There are 70 slots for non-registered members&lt;/p>
+&lt;p>❗❗ UPDATE[masked]: There are 57 slots for non-registered members&lt;/p>
+&lt;p>❗ Registration will open for HelSec Ry registered members on 9th of November. If there are available slots on 11th of November 18:00 (EET), we will open registration here.&lt;/p>
+&lt;p>Welcome to the HelSec November 2021 meetup! We will have three speakers from the infosec / cybersecurity industry and beverages will be provided. This event is powered by SANS.&lt;/p>
+&lt;p>17:30 - Doors open&lt;/p>
+&lt;p>18:00 - Word by HelSec&lt;/p>
+&lt;p>18:15 - TBA by Jari Javanainen&lt;/p>
+&lt;p>19:00 - Q&amp;amp;A, networking, beverages&lt;/p>
+&lt;p>19:15 - &amp;ldquo;That escalated quickly! - From a single break-in into global victim&lt;br>
+notification&amp;rdquo; by Markus Lintula&lt;/p>
+&lt;p>20:00 - Q&amp;amp;A, networking, beverages&lt;/p>
+&lt;p>20:15 - &amp;ldquo;Scaling problems&amp;rdquo; by Antti Kurittu&lt;/p>
+&lt;p>21:00 - Q&amp;amp;A, networking, beverages, fun&lt;/p>
+&lt;p>This meetup will be streamed on Twitch: &lt;a href="https://m.twitch.tv/helsec">https://m.twitch.tv/helsec&lt;/a>&lt;/p>
+&lt;p>Speaker bio:&lt;br>
+🔷 Jari Javanainen - Jari started at Tieto, currently TietoEVRY, in spring 2017 after working for about 20 Years at Finnish police. He worked at police in crime investigations. His main task for most of the time was digital crime investigation and investigation of different types of digital evidence supporting other investigations. At TietoEVRY Jari&amp;rsquo;s main task has been incident response and forensics, or DFIR. Currently TietoEVRY has small CSIRT team mainly focusing on internal systems. Other work tasks are related to different security improvements.&lt;br>
+🔷 Markus Lintula - Markus has worked as a specialist at the NCSC-FI and it&amp;rsquo;s predecessor CERT-FI for over eight years. His tasks have included incident handling and response, malware analysis and computer forensics.&lt;br>
+🔷 Antti Kurittu - Antti is the team lead for Nixu Digital Forensics and Incident Response. He has a background in law enforcement and national CERT work. Antti is the co-host of the award-winning Turvakäräjät podcast.&lt;/p></description></item><item><title>HelSec Virtual Meetup #12</title><link>https://helsec.fi/events/2021-09-30_helsec_virtual_meetup_12/</link><pubDate>Thu, 30 Sep 2021 18:00:00 +0300</pubDate><guid>https://helsec.fi/events/2021-09-30_helsec_virtual_meetup_12/</guid><description>&lt;p>Welcome to the HelSec Virtual Meetup 12! 🤗&lt;/p>
+&lt;p>Join the discussion on Discord: &lt;a href="https://discord.gg/NBvCAm8">https://discord.gg/NBvCAm8&lt;/a>&lt;/p>
+&lt;hr>
+&lt;p>18:00 - Stream start and word by HelSec&lt;/p>
+&lt;p>18:15 - &amp;ldquo;Insecure Firmware and Wireless Technologies as “Achilles’ Heel” in Cybersecurity of Cyber-Physical Systems&amp;rdquo; by Dr. Andrei Costin&lt;/p>
+&lt;p>19:00 - Short break&lt;/p>
+&lt;p>19:15 - &amp;ldquo;A walkthrough of the methodology and tooling required/used/created to find (security) bugs in some closed source software by stringing together freely available tools, using adobe reader as the target&amp;rdquo; by Knud Højgaard&lt;/p>
+&lt;p>20:00 - Virtual conference end - Virtual networking and some pystyy vetää will continue on our Discord server&lt;/p>
+&lt;p>All times are in EEST (UTC +3).&lt;/p>
+&lt;hr>
+&lt;p>Speaker bio:&lt;br>
+🔹 Dr. Andrei Costin - Dr. Andrei Costin is currently a Senior Lecturer/Assistant Professor in Cybersecurity at University of Jyvaskyla (Central Finland), with a particular focus on IoT/firmware cybersecurity and Digital Privacy. He received his PhD in 2015 from EURECOM/Telecom ParisTech under co-supervision of Prof. Francilon and Prof. Balzarotti. Dr. Costin has been publishing and presenting at more than 45 top international cybersecurity venues, both academic (Usenix Security, ACM ASIACCS, etc.) and industrial (BalckHat, CCC, HackInTheBox, etc.). He is the author of the first practical ADS-B attacks (BlackHat 2012) and has literally established the large-scale automated firmware analysis research areas (Usenix Security 2014) - these two works are considered seminal in their respective areas, being also most cited at the same time. Dr. Costin is also the CEO/co-founder of Binare.io, a deep-tech cybersecurity spin-off from University of Jyvaskyla, focused on innovation and tech-transfer related to IoT cybersecurity.&lt;br>
+🔹 Knud Højgaard - Knud works for Fraktal.fi doing assorted cyber-stuff&lt;/p></description></item><item><title>HelSec Virtual Meetup #11</title><link>https://helsec.fi/events/2021-08-26_helsec_virtual_meetup_11/</link><pubDate>Thu, 26 Aug 2021 18:00:00 +0300</pubDate><guid>https://helsec.fi/events/2021-08-26_helsec_virtual_meetup_11/</guid><description>&lt;p>Welcome to the HelSec Virtual Meetup 11! 🤗&lt;/p>
+&lt;p>Join the discussion on Discord: &lt;a href="https://discord.gg/NBvCAm8">https://discord.gg/NBvCAm8&lt;/a>&lt;/p>
+&lt;hr>
+&lt;p>18:00 - Stream start and word by HelSec&lt;/p>
+&lt;p>18:15 - &amp;ldquo;Mobile application security and how I hacked ParkMan&amp;rdquo; by Jussi Metsänkylä&lt;/p>
+&lt;p>19:00 - Short break&lt;/p>
+&lt;p>19:15 - &amp;ldquo;Spoofing and Tampering with Azure AD sign-in logs&amp;rdquo; by Dr. Nestori Syynimaa&lt;/p>
+&lt;p>20:00 - Virtual conference end - Virtual networking and some pystyy vetää will continue on our Discord server&lt;/p>
+&lt;p>All times are in EEST (UTC +3).&lt;/p>
+&lt;hr>
+&lt;p>Speaker bio:&lt;br>
+🔹 Jussi Metsänkylä - Hacker by heart, always breaking stuff since childhood. Trying to leave a positive footprint in the world by improving the stuff I just broke and helping others where I can. Really good at finding problems even when not looking for them.&lt;br>
+🔹 Dr. Nestori Syynimaa - One of the leading Azure AD / M365 experts in the world and the developer of the AADInternals toolkit. He has worked with Microsoft cloud services for over a decade and has been MCT since 2013, MVP since 2020, awarded Microsoft Most Valuable Security Researcher for 2021. Currently, Dr Syynimaa works as a Senior Principal Security Researcher for Secureworks Counter Threat Unit. Before moving to his current position, Dr Syynimaa worked as a CIO, consultant, trainer, researcher, and university lecturer for almost 20 years.&lt;/p></description></item><item><title>HelSec Virtual Meetup #10</title><link>https://helsec.fi/events/2021-05-20_helsec_virtual_meetup_10/</link><pubDate>Thu, 20 May 2021 18:00:00 +0300</pubDate><guid>https://helsec.fi/events/2021-05-20_helsec_virtual_meetup_10/</guid><description>&lt;p>Welcome to the HelSec Virtual Meetup 10! 🤗&lt;/p>
+&lt;p>This will be the last meetup before our summer break!!! Next meetup will be on August.&lt;/p>
+&lt;p>Join the discussion on Discord: &lt;a href="https://discord.gg/NBvCAm8">https://discord.gg/NBvCAm8&lt;/a>&lt;/p>
+&lt;hr>
+&lt;p>18:00 - Stream start and word by HelSec&lt;/p>
+&lt;p>18:15 - &amp;ldquo;Practical attacks against modern TLS implementations&amp;rdquo; by Aapo Oksman&lt;/p>
+&lt;p>19:00 - Short break&lt;/p>
+&lt;p>19:15 - ”How to build an appsec program from scratch” by Ossi Väänänen&lt;/p>
+&lt;p>20:00 - Virtual conference end - Virtual networking and some pystyy vetää will continue on our Discord server&lt;/p>
+&lt;p>All times are in EEST (UTC +3).&lt;/p>
+&lt;hr>
+&lt;p>Speaker bio:&lt;br>
+🔹 Aapo Oksman - Aapo is a Senior Security Specialist at Nixu Cybersecurity, where he works with application, protocol and device security with the focus on industrial IoT. His background is in electrical engineering, embedded devices and test automation. Combining his background with the hobby in hacking lead to a natural career shift to cybersecurity. In his free time, Bug Bounties and CTFs keep Aapo motivated and learning, but he is more interested in developing the tools and making the challenges than actually solving them. Aapo has gained professional and Bug Bounty success with his work in PKI and TLS, resulting in multiple CVEs in notable products from Microsoft and Apple.&lt;br>
+🔹 Ossi Väänänen - Co-Founder of HelSec, Chief Security Architect at Sanoma, OSCP&lt;/p></description></item><item><title>HelSec Virtual Meetup #9</title><link>https://helsec.fi/events/2021-04-29_helsec_virtual_meetup_9/</link><pubDate>Thu, 29 Apr 2021 18:00:00 +0300</pubDate><guid>https://helsec.fi/events/2021-04-29_helsec_virtual_meetup_9/</guid><description>&lt;p>Welcome to the HelSec Virtual Meetup 9! 🤗&lt;/p>
+&lt;p>Join the discussion on Discord: &lt;a href="https://discord.gg/NBvCAm8">https://discord.gg/NBvCAm8&lt;/a>&lt;/p>
+&lt;hr>
+&lt;p>18:00 - Stream start and word by HelSec&lt;/p>
+&lt;p>18:15 - &amp;ldquo;Tonttu pilots - walking the extra mile in cyber security&amp;rdquo; by Jani Kenttälä&lt;/p>
+&lt;p>19:00 - Short break&lt;/p>
+&lt;p>19:15 - ”From Scammer with Love: A view to a scam” by Jani Räty&lt;/p>
+&lt;p>20:00 - Short break&lt;/p>
+&lt;p>20:15 - ”TLS/DTLS, OpenVPN, IPSec, WireGuard. The winner is..&amp;quot; by Ilhan Gurel&lt;/p>
+&lt;p>21:00 - Virtual conference end - Virtual networking and some pystyy vetää will continue on our Discord server&lt;/p>
+&lt;p>All times are in EEST (UTC +3).&lt;/p>
+&lt;hr>
+&lt;p>Speaker bio:&lt;br>
+🔹 Jani Kenttälä makes cyber security easy. It hasn’t always been easy, but over 20 years as a security researcher and serial entrepreneur taught him to think differently. Jani wrapped up his experience from working with CERT teams and critical infrastructure providers and saw how especially small and medium sized companies need help. He founded Badrap to help them. Badrap is set out to make cyber security accessible for all. In the latest push Jani worked with 11 companies in a pilot called “Tonttu” to rapidly improve their security. The results and feedback were stellar. Now he brings good news, building security and trust can be easy.&lt;br>
+🔹 During days, Jani Räty is updating security policies and managing requirements, but during nights he is trying to catch scammers with honeytraps. The National Cyber Security Centre Finland (NCSC-FI) acknowledged his and his colleagues work for fraud prevention with Information Security Trendsetter 2020- award. He is also known in LinkedIn as the other founder of BlueTeamBuilders collective, bringing back the balance to the forc&amp;hellip; security.&lt;br>
+🔹 Ilhan Gurel works for Ericsson in the CTO organization as an expert on trusted HW and SW technologies. His current role involves various security activities related to HW security, SW security, TEE (Trusted Execution Environment) technologies and practical use of cryptography.&lt;/p></description></item><item><title>HelSec Virtual Meetup #8</title><link>https://helsec.fi/events/2021-03-25_helsec_virtual_meetup_8/</link><pubDate>Thu, 25 Mar 2021 18:00:00 +0200</pubDate><guid>https://helsec.fi/events/2021-03-25_helsec_virtual_meetup_8/</guid><description>&lt;p>Welcome to the HelSec Virtual Meetup 8! 🤗&lt;/p>
+&lt;p>Join the discussion on Discord: &lt;a href="https://discord.gg/NBvCAm8">https://discord.gg/NBvCAm8&lt;/a>&lt;/p>
+&lt;hr>
+&lt;p>18:00 - Stream start and word by HelSec&lt;/p>
+&lt;p>18:15 - &amp;ldquo;localhost exposed: personal vulnerability on my path to oscp&amp;rdquo; by jw&lt;/p>
+&lt;p>19:00 - Short break&lt;/p>
+&lt;p>19:15 - ”Who&amp;rsquo;s afraid of the dark? - Hype versus reality on the dark web” by Nour Fateen&lt;/p>
+&lt;p>20:00 - Short break&lt;/p>
+&lt;p>20:15 - ”Emulating ransomware attacks lifecycle&amp;quot; by Francesco Raimondi&lt;/p>
+&lt;p>21:00 - Virtual conference end - Virtual networking and some pystyy vetää will continue on our Discord server&lt;/p>
+&lt;p>All times are in EET (UTC +2).&lt;/p>
+&lt;hr>
+&lt;p>Speaker bio:&lt;br>
+🔹 jw, having started his career with a decade of DevOps roles, he migrated to cyber security in the aftermath of Stuxnet. He spent the next five years as a cyber security consultant in Finland and the Middle East before expanding his perspective from single companies to the whole country..&lt;br>
+🔹 Nour Fateen is a cybersecurity specialist with over seven years of experience in the industry. Currently at Recorded Future, Nour has spent the last three years helping some of the largest businesses in the world improve their security posture using security intelligence. He has previously held positions in Cisco Systems and Goldman Sachs. Nour received a Master in Electronic Engineering &amp;amp; Nanotechnology from University College London.&lt;br>
+🔹 Francesco comes from a cyber security background. He has worked as a cyber security consultant, focusing on penetration testing and red teaming in banking and healthcare sectors. Francesco has a focus on cyber security in cloud native AWS and Azure architectures as well as hybrid infrastructures.&lt;/p></description></item><item><title>HelSec Virtual Meetup #7</title><link>https://helsec.fi/events/2021-02-18_helsec_virtual_meetup_7/</link><pubDate>Thu, 18 Feb 2021 18:00:00 +0200</pubDate><guid>https://helsec.fi/events/2021-02-18_helsec_virtual_meetup_7/</guid><description>&lt;p>Welcome to the HelSec Virtual Meetup 7! 🤗&lt;/p>
+&lt;p>Join the discussion on Discord: &lt;a href="https://discord.gg/NBvCAm8">https://discord.gg/NBvCAm8&lt;/a>&lt;/p>
+&lt;hr>
+&lt;p>18:00 - Stream start and word by HelSec&lt;/p>
+&lt;p>18:15 - &amp;ldquo;One way to end up in the CISO Office&amp;rdquo; by Henri Heinonen&lt;/p>
+&lt;p>19:00 - Short break&lt;/p>
+&lt;p>19:15 - ”The Devil is in the Details” by Anne Hännikäinen&lt;/p>
+&lt;p>20:00 - Short break&lt;/p>
+&lt;p>20:15 - ”Culture eats strategy for breakfast&amp;quot; by Teemu Mäkelä&lt;/p>
+&lt;p>21:00 - Virtual conference end - Virtual networking and some pystyy vetää will continue on our Discord server&lt;/p>
+&lt;p>All times are in EET (UTC +2).&lt;/p>
+&lt;hr>
+&lt;p>Speaker bio:&lt;br>
+🔹 Henri is the Chief Information Security Officer in Aktia Pankki Oyj. He is also actively participating in developing Financial sector’s co-operation in cyber security.&lt;br>
+🔹 Anne is the CISO in Fintraffic Oy, which controls and manages traffic on land, air and sea. Before this position, she was the CISO in Sanoma, media and learning company. She embraces close co-operation with different stakeholders, and drives business and cyber risk strategy alignment. She has wide experience in assessing and implementing security technologies and&lt;br>
+procedures to build organizational capabilities, including the whole ecosystem. During her time at Nokia, she was a part of global team creating and implementing 3rd Party Security Management concept, governance and information security requirements to ensure alignment from an end-to-end perspective. In Sanoma she deepened her knowledge on securing Cloud based solutions. She has 20+ years of IT experience in global, international and virtual organizations – and is experienced in IT, Security and Privacy implementation, including Mergers, Acquisitions &amp;amp; Divestment cases. She has also worked as expat in Singapore and The Netherlands.&lt;br>
+🔹 Teemu is a business-minded and experienced cyber security leader with wide hands-on knowledge of various aspects of today’s networked systems. He believes an organization’s level of security should always be based on proper risk management and enable business by opening up opportunities. Teemu was recently named CISO of the Year by Tietoturva Ry, Finland’s largest network of cyber security professionals.&lt;/p></description></item><item><title>HelSec Virtual Meetup #6</title><link>https://helsec.fi/events/2021-01-21_helsec_virtual_meetup_6/</link><pubDate>Thu, 21 Jan 2021 18:00:00 +0200</pubDate><guid>https://helsec.fi/events/2021-01-21_helsec_virtual_meetup_6/</guid><description>&lt;p>Welcome to the HelSec Virtual Meetup 6! 🤗&lt;/p>
+&lt;p>Join the discussion on Discord: &lt;a href="https://discord.gg/NBvCAm8">https://discord.gg/NBvCAm8&lt;/a>&lt;/p>
+&lt;hr>
+&lt;p>18:00 - Stream start and word by HelSec&lt;/p>
+&lt;p>18:15 - &amp;ldquo;Container Security: an overview&amp;rdquo; by Ilhan Gurel&lt;/p>
+&lt;p>19:00 - Short break&lt;/p>
+&lt;p>19:15 - &amp;ldquo;My Brief History of Cybersecurity Exercises&amp;rdquo; by Anne Oikarinen&lt;/p>
+&lt;p>20:00 - Short break&lt;/p>
+&lt;p>20:15 - &amp;ldquo;From zero to Yara&amp;rdquo; by Peeter Marvet&lt;/p>
+&lt;p>21:00 - Virtual conference end - Virtual networking and some pystyy vetää will continue on our Discord server&lt;/p>
+&lt;p>All times are in EET (UTC +2).&lt;/p>
+&lt;hr>
+&lt;p>Speaker bio:&lt;br>
+🔹 Ilhan Gurel works for Ericsson in the CTO organization as an expert on trusted HW and SW technologies. Ilhan Gurel lives in Finland. His current role involves various security activities related to HW security, SW security, TEE (Trusted Execution Environment) technologies and practical use of cryptography.&lt;br>
+🔹 Anne Oikarinen is a Senior Security Consultant who works with security and software development teams to help them design and develop secure software. In her current job at Nixu Corporation, Anne divides her time between DevSecOps, cybersecurity exercises and writing about cybersecurity. Anne holds a Master of Science (Tech.) degree in Communication Networks and Protocols from Tampere University of Technology, and maintains the CISSP and GMOB certifications.&lt;br>
+🔹 Peeter Marvet has been trying to make computers do what he wants since &amp;lsquo;85, starting with pirated clones of IBM mainframes running on punchcards - but the computers seem to be still winning. Has produced 10 years of radio, couple of years of TV, worked 15 years in printing industry, has a sailboat and likes to windsurf. Currently resident hacker and chief troublemaker at Estonian largest hosting company Zone.ee&lt;/p></description></item><item><title>HelSec Special Virtual Meetup: Home Labs</title><link>https://helsec.fi/events/2021-01-07_helsec_special_virtual_meetup_home_labs/</link><pubDate>Thu, 07 Jan 2021 18:00:00 +0200</pubDate><guid>https://helsec.fi/events/2021-01-07_helsec_special_virtual_meetup_home_labs/</guid><description>&lt;p>Welcome to the HelSec Special Virtual Meetup: Home Labs! 🤗&lt;/p>
+&lt;p>Join the discussion on Discord: &lt;a href="https://discord.gg/NBvCAm8">https://discord.gg/NBvCAm8&lt;/a>&lt;/p>
+&lt;hr>
+&lt;p>18:00 - Stream start and word by HelSec&lt;/p>
+&lt;p>18:05 - &amp;ldquo;Setting a lab on virtualbox beginners tale.&amp;rdquo; by Marjanah Sadiq&lt;/p>
+&lt;p>18:35- Short break&lt;/p>
+&lt;p>18:45 - &amp;ldquo;My DFIR/malware environment&amp;rdquo; by Juho Jauhiainen&lt;/p>
+&lt;p>19:15 - Short break&lt;/p>
+&lt;p>19:30 - TBA by Ossi Väänänen&lt;/p>
+&lt;p>20:00 - [Virtual conference end] Virtual networking and discussion on our Discord server&lt;/p>
+&lt;p>All times are in EET (UTC +2).&lt;/p>
+&lt;hr>
+&lt;p>Speaker bio:&lt;br>
+🔹 Marjanah Sadiq - Student of embedded software and cybersecurity. Working as Research assistant at University of Jyväskylä.&lt;br>
+🔹 Juho Jauhiainen - Co-Founder of HelSec, Information Security Specialist at NCSC-FI, Podcast host at Turvakäräjät, Former DFIR consultant, Forensics and Cyber Security Instructor at MPK Ry, CISSP, OSCP, GCFA, GREM, GMON, and forever a student (maybe someday his MSc (Tech.) studies will be ready).&lt;br>
+🔹 Ossi Väänänen - Co-Founder of HelSec, Chief Security Architect at Sanoma, OSCP&lt;/p></description></item><item><title>HelSec Virtual Meetup #5</title><link>https://helsec.fi/events/2020-12-17_helsec_virtual_meetup_5/</link><pubDate>Thu, 17 Dec 2020 18:00:00 +0200</pubDate><guid>https://helsec.fi/events/2020-12-17_helsec_virtual_meetup_5/</guid><description>&lt;p>Welcome to the HelSec Virtual Meetup 5! 🤗&lt;/p>
+&lt;p>Join the discussion on Discord: &lt;a href="https://discord.gg/NBvCAm8">https://discord.gg/NBvCAm8&lt;/a>&lt;/p>
+&lt;hr>
+&lt;p>18:00 - Stream start and word by HelSec&lt;/p>
+&lt;p>18:15 - &amp;ldquo;Why I Quit Security For A While And Came Back&amp;rdquo; by James Arlen&lt;/p>
+&lt;p>19:00 - Short break&lt;/p>
+&lt;p>19:15 - &amp;ldquo;Globalization of Cybercrime&amp;rdquo; by Anna Chung&lt;/p>
+&lt;p>20:00 - Short break&lt;/p>
+&lt;p>20:15 - &amp;ldquo;DMA Abuses and In-Memory Malware Detection&amp;rdquo; by Ulf Frisk&lt;/p>
+&lt;p>21:00 - Virtual conference end - Virtual networking and some pystyy vetää will continue on our Discord server&lt;/p>
+&lt;p>All times are in EET (UTC +2).&lt;/p>
+&lt;hr>
+&lt;p>Speaker bio:&lt;br>
+🔹 James Arlen is Aiven.io’s CISO bringing a mix of security and engineering background to DBaaS (database as a service). Over the past twenty plus years, James has been delivering information security solutions to Fortune 500, TSE 100, and major public-sector organizations. James is best described as: “Infosec geek, hacker, social activist, author, speaker, and parent.” His areas of interest include organizational change, social engineering, blinky lights and shiny things. In addition to his work at Aiven, James is a blogger/podcaster with Liquidmatrix Security Digest, a frequent speaker at industry conferences, and is a prolific contributor to media and standards including a lead author contribution to the Cloud Security Alliance Security Guidance for Critical Areas of Cloud Computing V4. James holds the CISSP, CISA, and CRISC security certifications.&lt;br>
+🔹Anna Chung is a Principal Researcher at Unit 42, the global threat intelligence team at Palo Alto Networks. She works at the crossroads of cyber threat intelligence, underground economics, and cyber behavior analysis. In addition, Anna is actively building mentoring partnerships encouraging women with or without a technical background to be part of the information security industry.&lt;br>
+🔹Ulf Frisk is a pentester by day, and a Security Researcher by night. He is the author of PCILeech and MemProcFS which he has presented at major cons such as Disobey, DEF CON and the CCC. He is interested in things low-level and primarily focuses on Memory Analysis and Direct Memory Access (DMA).&lt;/p></description></item><item><title>HelSec Virtual Meetup #4</title><link>https://helsec.fi/events/2020-11-18_helsec_virtual_meetup_4/</link><pubDate>Wed, 18 Nov 2020 18:00:00 +0200</pubDate><guid>https://helsec.fi/events/2020-11-18_helsec_virtual_meetup_4/</guid><description>&lt;p>Welcome to the HelSec Virtual Meetup 4! 🤗&lt;/p>
+&lt;p>Join the discussion on Discord: &lt;a href="https://discord.gg/NBvCAm8">https://discord.gg/NBvCAm8&lt;/a>&lt;/p>
+&lt;hr>
+&lt;p>18:00 - Stream start and word by HelSec&lt;/p>
+&lt;p>18:15 - &amp;ldquo;That time they almost got us&amp;rdquo; by Joakim Tauren&lt;/p>
+&lt;p>19:00 - Short break&lt;/p>
+&lt;p>19:15 - &amp;ldquo;Fundamentals of threat detection in OT/ICS environments&amp;rdquo; by Pietari Sarjakivi&lt;/p>
+&lt;p>20:00 - Short break&lt;/p>
+&lt;p>20:15 - &amp;ldquo;Modifying Disobey badges - Project RubberHeikki&amp;rdquo; by Heikki Stark&lt;/p>
+&lt;p>21:00 - Virtual conference end - Virtual networking and some pystyy vetää will continue on our Discord server&lt;/p>
+&lt;p>All times are in EET (UTC +2).&lt;/p>
+&lt;hr>
+&lt;p>Speaker bio:&lt;br>
+🔹 Joakim Tauren, Application Security Architect at Visma, Dad, hobby wood worker, aspiring communicator. Helping development teams in Visma be more secure, with tools, services and knowledge.&lt;br>
+🔹 Pietari Sarjakivi, Leader atNixu, blue team trainer in National Defence Training Association of Finland, (MPK) and PhD student in University of Jyväskylä (JYU). He has been working with threat detection and response over a decade and in 2015 he founded Nixu Cyber Defense Center service that maintains customers&amp;rsquo; operational cyber defense by offering premium prevention, detection and response services. &lt;a href="https://www.linkedin.com/in/pietari/">https://www.linkedin.com/in/pietari/&lt;/a>&lt;br>
+🔹 Heikki Stark, Security auditor, mechkeeb entrepreneur.&lt;/p></description></item><item><title>HelSec Virtual Meetup #3</title><link>https://helsec.fi/events/2020-08-27_helsec_virtual_meetup_3/</link><pubDate>Thu, 27 Aug 2020 18:00:00 +0300</pubDate><guid>https://helsec.fi/events/2020-08-27_helsec_virtual_meetup_3/</guid><description>&lt;p>Welcome to the HelSec Virtual Meetup 3! 🤗&lt;/p>
+&lt;p>Join the discussion on Discord: &lt;a href="https://discord.gg/NBvCAm8">https://discord.gg/NBvCAm8&lt;/a>&lt;/p>
+&lt;hr>
+&lt;p>18:00 - Stream start and word by HelSec&lt;/p>
+&lt;p>18:15 - Exposing the Dangers of Poor Password Management With Security Intelligence by Nour Fateen&lt;/p>
+&lt;p>19:00 - Short break&lt;/p>
+&lt;p>19:15 - What is 5G Security? by Dr. Silke Holtmanns&lt;/p>
+&lt;p>20:00 - Short break&lt;/p>
+&lt;p>20:15 - Confidential Computing: The past, present and the future by Ilhan Gurel&lt;/p>
+&lt;p>21:00 - Virtual conference end - Virtual networking and some pystyy vetää will continue on our Discord server&lt;/p>
+&lt;p>All times are in EEST (UTC +3).&lt;/p>
+&lt;hr>
+&lt;p>Speaker bio:&lt;br>
+🔹 Nour Fateen is a cybersecurity specialist with over seven years of experience in the industry. Currently at Recorded Future, Nour has spent the last three years helping some of the largest businesses in the world improve their security posture using security intelligence. He has previously held positions in Cisco Systems and Goldman Sachs. Nour received a Master in Electronic Engineering &amp;amp; Nanotechnology from University College London.&lt;br>
+🔹 Silke works for 20 years in telco security and was honored for her security work in 2019 (Suomen Leijonan ritari). She has worked with more security specifications than coffee cups in her life and knows how to spot weak spots in them. Her sec research was presented at BlackHat, DefCon and (most important) Disobey. She recently left a big finnish mobile network vendor and joined a small weird (but extremely interesting) company in Ireland called Adaptive Mobile Security and setting new levels or remote working. There she can get hold of real-life network nation state attacks to telcos (cool), works on threat intelligence (love math &amp;amp; logs &amp;amp; protocols!) and can build and contribute to the best telco firewalls ever that protect millions of people (about time). Now at the dawn of 5G, 5G security has moved into the spotlight and always on the research front, there she goes and explores. Oh, and she officially advises EU ENISA and other governments and operators on 5G Security.&lt;br>
+🔹 Ilhan Gurel currently works for Ericsson in the CTO organization as an expert on trusted HW and SW technologies. His current role involves various security activities related to HW security, SW security, OS &amp;amp; Platform security and practical use of cryptography.&lt;/p></description></item><item><title>HelSec Virtual Meetup #2</title><link>https://helsec.fi/events/2020-06-11_helsec_virtual_meetup_2/</link><pubDate>Thu, 11 Jun 2020 18:00:00 +0300</pubDate><guid>https://helsec.fi/events/2020-06-11_helsec_virtual_meetup_2/</guid><description>&lt;p>Welcome to the HelSec Virtual Meetup 2! 🤗&lt;/p>
+&lt;p>Join the discussion on Discord: &lt;a href="https://discord.gg/NBvCAm8">https://discord.gg/NBvCAm8&lt;/a>&lt;/p>
+&lt;p>18:00 - Stream open and word by HelSec&lt;/p>
+&lt;p>18:20 - Infosec consulting and career progression by Niklas Särökaari&lt;/p>
+&lt;p>19:00 - Forensicating like a boss using cincan and minion by jw&lt;/p>
+&lt;p>19:40 - SharePoint RCE via web control parsing by Ivan Vagunin&lt;/p>
+&lt;p>20:40 - Privecall TX by Arimo Koivisto&lt;/p>
+&lt;p>21:20 - Virtual conference end - Virtual networking and some pystyy vetää will continue on our Discord server (link will be shared during the virtual conference).&lt;/p>
+&lt;p>All times are in EEST (UTC +3).&lt;/p>
+&lt;p>Speaker bio:&lt;br>
+🔹 Niklas Särökaari, Red Teamer at F-Secure&lt;br>
+🔹 jw, Having started his career with a decade of DevOps roles, he migrated to cyber security in the aftermath of Stuxnet. He spent the next five years as a cyber security consultant in Finland and the Middle East before expanding his perspective from single companies to the whole country.&lt;br>
+🔹 Ivan Vagunin, Senior Software Architect at TietoEVRY, proud HelSec Ry member #82, occasional bug bounty hunter (MSRC TOP 100 BH 2018), serial blockchain gamer, CISSP/MCSM&lt;br>
+🔹 Arimo Koivisto, CCO of Xxlsec&lt;/p></description></item><item><title>HelSec Virtual Meetup #1</title><link>https://helsec.fi/events/2020-05-07_helsec_virtual_meetup_1/</link><pubDate>Thu, 07 May 2020 17:00:00 +0300</pubDate><guid>https://helsec.fi/events/2020-05-07_helsec_virtual_meetup_1/</guid><description>&lt;p>Welcome to the HelSec Virtual Meetup 1! 🤗&lt;/p>
+&lt;p>The talks and the presenters will be released one by one before Thursday.&lt;/p>
+&lt;p>17:00 - Stream open and word by HelSec&lt;/p>
+&lt;p>17:30 - Fighting alert fatigue and visibility issues in SOC by Juuso Myllylä&lt;/p>
+&lt;p>17:55 - Q&amp;amp;A&lt;/p>
+&lt;p>18:00 - iPhone BFU Acquisition and Analysis by Timo Miettinen&lt;/p>
+&lt;p>18:45 - Q&amp;amp;A&lt;/p>
+&lt;p>19:00 - Still Fuzzing Faster (U Fool) by joohoi&lt;/p>
+&lt;p>19:45 - Q&amp;amp;A&lt;/p>
+&lt;p>20:00 - Price of a digital identity by Laura Kankaala&lt;/p>
+&lt;p>20:45 - Q&amp;amp;A&lt;/p>
+&lt;p>21:00 - A tale of two vulnerability databases and a Panda by Magnus Lundgren&lt;/p>
+&lt;p>21:25 - Q&amp;amp;A&lt;/p>
+&lt;p>21:30 - Virtual conference end - Virtual networking and some pystyy vetää will continue on our Discord server (link will be shared during the virtual conference).&lt;/p>
+&lt;p>All times are in EEST (UTC +3).&lt;/p>
+&lt;p>Speaker bio:&lt;/p>
+&lt;p>Juuso Myllylä, Security Analyst @ OptimeSys CSOC. Student @ University of Jyväskylä, Masters program for cybersecurity. Twitter: @zeyM0x01&lt;/p>
+&lt;p>Timo Miettinen, Senior DFIR consultant at Nixu. 10 years of experience in cyber domain, both public and private sectors. Certifications: GCIH, CHFI, CEH.&lt;/p>
+&lt;p>joohoi, a privacy and security enthusiast, hacker and open so(u)rcerer involved in projects like Certbot, acme-dns and ffuf. Approaches problems from purple teamer perspective.&lt;/p>
+&lt;p>Laura Kankaala, security professional with hands-on experience on how to make companies and lives of people more secure by hacking. She&amp;rsquo;s also a familiar face from a Finnish infosec TV documentary series Team Whack. Laura has worked as a security consultant, researcher and now she is a security lead at a startup company Robocorp.&lt;/p>
+&lt;p>Magnus Lundgren, Recorded Future. Worked there for 5 years, seen the company grow from 50 to 500 people. Excited about what you can do by combining big data and machine learning to the threat intelligence space.&lt;/p></description></item><item><title>HelSec February 2020 meetup</title><link>https://helsec.fi/events/2020-02-06_helsec_february_2020_meetup/</link><pubDate>Thu, 06 Feb 2020 17:30:00 +0200</pubDate><guid>https://helsec.fi/events/2020-02-06_helsec_february_2020_meetup/</guid><description>&lt;p>Welcome to the HelSec February 2020 meetup! 🤗We will have two awesome speakers from the infosec / cybersecurity industry and beverages will be provided. This event is powered by Transcendent Group.&lt;/p>
+&lt;p>17:30 - Doors open&lt;/p>
+&lt;p>18:00 - Word by HelSec&lt;/p>
+&lt;p>18:05 - Intro &amp;amp; welcome by Transcendent Group&lt;/p>
+&lt;p>18:15 - &amp;ldquo;Using Telia carriers network for DDoS hunting&amp;rdquo; by Osmo Soinio&lt;/p>
+&lt;p>19:00 - Q&amp;amp;A, networking, beverages&lt;/p>
+&lt;p>19:15 - &amp;ldquo;The most infamous vulnerabilities and data breaches: what, why, how and lessons learned&amp;hellip;&amp;rdquo; by Ilhan Gurel&lt;/p>
+&lt;p>20:00 - Q&amp;amp;A, networking and pystyy vetää!&lt;/p>
+&lt;p>21:00 - Doors closed, pystyy vetää elsewhere!&lt;/p>
+&lt;p>Speaker bio:&lt;br>
+Osmo Soinio - Senior Cyber Intelligence Analyst at Telia Company&lt;br>
+Ilhan Gurel - Expert, HW &amp;amp; SW Security at Ericsson&lt;/p></description></item><item><title>HelSec January 2020 meetup</title><link>https://helsec.fi/events/2020-01-09_helsec_january_2020_meetup/</link><pubDate>Thu, 09 Jan 2020 17:30:00 +0200</pubDate><guid>https://helsec.fi/events/2020-01-09_helsec_january_2020_meetup/</guid><description>&lt;p>Welcome to the HelSec January 2020 meetup, our 1ST anniversary! 🥳We will have three awesome speakers from the infosec / cybersecurity industry and beverages will be provided. This event is powered by Solita.&lt;/p>
+&lt;p>17:30 - Doors open&lt;/p>
+&lt;p>18:00 - Word by HelSec&lt;/p>
+&lt;p>18:05 - Intro &amp;amp; welcome by Solita&lt;/p>
+&lt;p>18:15 - &amp;ldquo;IoT/APK-seikkailuja opiskelijabudjetilla&amp;rdquo; by Nina Kuisma (TALK EXCEPTIONALLY IN FINNISH)&lt;/p>
+&lt;p>19:00 - Q&amp;amp;A, networking, beverages&lt;/p>
+&lt;p>19:15 - &amp;ldquo;Stay safe while testing (malware)&amp;rdquo; by Flavia Koskivaara&lt;/p>
+&lt;p>20:00 - Q&amp;amp;A, networking, beverages&lt;/p>
+&lt;p>20:15 - &amp;ldquo;Hackers in the clouds&amp;rdquo; by Laura Kankaala&lt;/p>
+&lt;p>21:00 - Q&amp;amp;A, networking and pystyy vetää!&lt;/p>
+&lt;p>Speaker bio:&lt;br>
+Nina &amp;ldquo;ninnnu&amp;rdquo; Kuisma - Sysadmin at Cybercom Finland&lt;br>
+Flavia Koskivaara - SME at Nixu Corporation&lt;br>
+Laura Kankaala - Security Researcher at Detectify&lt;/p></description></item></channel></rss>
