@@ -1,4 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>HelSec Ry</title><link>https://helsec.fi/events/</link><description>Recent HelSec Ry events</description><language>en-us</language><lastBuildDate>Thu, 16 Jun 2022 18:00:00 +0300</lastBuildDate><atom:link href="https://helsec.fi/events/index.xml" rel="self" type="application/rss+xml"/><item><title>HelSec June 2022 Meetup - Beers in the park</title><link>https://helsec.fi/events/2022-06-16_helsec_june_2022_meetup__beers_in_the_park/</link><pubDate>Thu, 16 Jun 2022 18:00:00 +0300</pubDate><guid>https://helsec.fi/events/2022-06-16_helsec_june_2022_meetup__beers_in_the_park/</guid><description>&lt;p>Welcome to the HelSec June 2022 meetup!&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>HelSec Ry</title><link>https://helsec.fi/events/</link><description>Recent HelSec Ry events</description><language>en-us</language><lastBuildDate>Thu, 25 Aug 2022 18:00:00 +0300</lastBuildDate><atom:link href="https://helsec.fi/events/index.xml" rel="self" type="application/rss+xml"/><item><title>HelSec August 2022 meetup</title><link>https://helsec.fi/events/2022-08-25_helsec_august_2022_meetup/</link><pubDate>Thu, 25 Aug 2022 18:00:00 +0300</pubDate><guid>https://helsec.fi/events/2022-08-25_helsec_august_2022_meetup/</guid><description>&lt;p>❗ Registration will open for HelSec Ry registered members on Monday 15th of August. Information will be emailed to registered members. If there are available slots on Monday 22nd of August 18:00 (EEST), we will open the registration here for non-registered members. More details about membership on &lt;a href="https://helsec.fi">https://helsec.fi&lt;/a>&lt;/p>
+&lt;p>Welcome to the HelSec August 2022 meetup! We will have two presentations from the infosec / cybersecurity industry and beverages will be provided.&lt;/p>
+&lt;p>18:00 - Doors open&lt;/p>
+&lt;p>18:15 - Word by HelSec&lt;/p>
+&lt;p>18:30 - ”Battle against fraud calls” by KRP, Traficom and Elisa&lt;/p>
+&lt;p>19:15 - Q&amp;amp;A, networking, beverages&lt;/p>
+&lt;p>19:30 - &amp;ldquo;What the BEC?!&amp;rdquo; by Niklas Särökaari&lt;/p>
+&lt;p>20:15 - Q&amp;amp;A, networking, beverages&lt;/p>
+&lt;p>21:00 - Doors closed, let&amp;rsquo;s continue pystyy vetää elsewhere&lt;/p>
+&lt;p>This meetup will be streamed on Twitch: &lt;a href="https://twitch.tv/helsec">https://twitch.tv/helsec&lt;/a>&lt;/p>
+&lt;p>Speaker bio:&lt;br>
+🔷 Jussi Larvanto - Detective Sergeant, International Cooperation Expert at the National Bureau of Investigation. Country-representative in several cross-border law enforcement projects regarding prevention of cyber-enabled fraud.&lt;br>
+🔷 Lauri Isotalo - Development Manager, works in Development and Co-operation Unit in NCSC-FI. Main duties on leading data analytics and related development projects. Task force leader in telecom projects regarding prevention of cyber-enabled fraud.&lt;br>
+🔷 Jukka Pietarinen - Security Manager, Elisa Production, Security management and security capability development on Elisa&amp;rsquo;s Telecom area.&lt;br>
+🔷 Karri Jäkkö - Head of Department, Elisa cSOC, Cyber Security and Service Operations Center. Cyber security and service availability monitoring and incident response for Elisa´s services.&lt;br>
+🔷 Niklas Särökaari - Niklas is a former security consultant with background in offensive security services, such as red teaming. Niklas migrated into defensive side where he is now part of the KONE security operations team with focus on incident response, threat hunting and detection engineering.&lt;/p></description></item><item><title>HelSec June 2022 Meetup - Beers in the park</title><link>https://helsec.fi/events/2022-06-16_helsec_june_2022_meetup__beers_in_the_park/</link><pubDate>Thu, 16 Jun 2022 18:00:00 +0300</pubDate><guid>https://helsec.fi/events/2022-06-16_helsec_june_2022_meetup__beers_in_the_park/</guid><description>&lt;p>Welcome to the HelSec June 2022 meetup!&lt;/p>
 &lt;p>This time we will have an unformal meetup. Come and mingle with the community in a park, meet new people, grab few stickers, give a flash talk, and bring your own beverages. This will be the last meetup before August 2022.&lt;/p>
 &lt;p>18:00 - Gather to Kansalaistori Square&lt;/p>
 &lt;p>XX:XX - Flash talks&lt;/p>
@@ -277,15 +292,4 @@ procedures to build organizational capabilities, including the whole ecosystem. 
 &lt;p>Timo Miettinen, Senior DFIR consultant at Nixu. 10 years of experience in cyber domain, both public and private sectors. Certifications: GCIH, CHFI, CEH.&lt;/p>
 &lt;p>joohoi, a privacy and security enthusiast, hacker and open so(u)rcerer involved in projects like Certbot, acme-dns and ffuf. Approaches problems from purple teamer perspective.&lt;/p>
 &lt;p>Laura Kankaala, security professional with hands-on experience on how to make companies and lives of people more secure by hacking. She&amp;rsquo;s also a familiar face from a Finnish infosec TV documentary series Team Whack. Laura has worked as a security consultant, researcher and now she is a security lead at a startup company Robocorp.&lt;/p>
-&lt;p>Magnus Lundgren, Recorded Future. Worked there for 5 years, seen the company grow from 50 to 500 people. Excited about what you can do by combining big data and machine learning to the threat intelligence space.&lt;/p></description></item><item><title>HelSec February 2020 meetup</title><link>https://helsec.fi/events/2020-02-06_helsec_february_2020_meetup/</link><pubDate>Thu, 06 Feb 2020 17:30:00 +0200</pubDate><guid>https://helsec.fi/events/2020-02-06_helsec_february_2020_meetup/</guid><description>&lt;p>Welcome to the HelSec February 2020 meetup! 🤗We will have two awesome speakers from the infosec / cybersecurity industry and beverages will be provided. This event is powered by Transcendent Group.&lt;/p>
-&lt;p>17:30 - Doors open&lt;/p>
-&lt;p>18:00 - Word by HelSec&lt;/p>
-&lt;p>18:05 - Intro &amp;amp; welcome by Transcendent Group&lt;/p>
-&lt;p>18:15 - &amp;ldquo;Using Telia carriers network for DDoS hunting&amp;rdquo; by Osmo Soinio&lt;/p>
-&lt;p>19:00 - Q&amp;amp;A, networking, beverages&lt;/p>
-&lt;p>19:15 - &amp;ldquo;The most infamous vulnerabilities and data breaches: what, why, how and lessons learned&amp;hellip;&amp;rdquo; by Ilhan Gurel&lt;/p>
-&lt;p>20:00 - Q&amp;amp;A, networking and pystyy vetää!&lt;/p>
-&lt;p>21:00 - Doors closed, pystyy vetää elsewhere!&lt;/p>
-&lt;p>Speaker bio:&lt;br>
-Osmo Soinio - Senior Cyber Intelligence Analyst at Telia Company&lt;br>
-Ilhan Gurel - Expert, HW &amp;amp; SW Security at Ericsson&lt;/p></description></item></channel></rss>
+&lt;p>Magnus Lundgren, Recorded Future. Worked there for 5 years, seen the company grow from 50 to 500 people. Excited about what you can do by combining big data and machine learning to the threat intelligence space.&lt;/p></description></item></channel></rss>
