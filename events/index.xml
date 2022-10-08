@@ -1,4 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>HelSec Ry</title><link>https://helsec.fi/events/</link><description>Recent HelSec Ry events</description><language>en-us</language><lastBuildDate>Thu, 22 Sep 2022 18:00:00 +0300</lastBuildDate><atom:link href="https://helsec.fi/events/index.xml" rel="self" type="application/rss+xml"/><item><title>HelSec September 2022 meetup</title><link>https://helsec.fi/events/2022-09-22_helsec_september_2022_meetup/</link><pubDate>Thu, 22 Sep 2022 18:00:00 +0300</pubDate><guid>https://helsec.fi/events/2022-09-22_helsec_september_2022_meetup/</guid><description>&lt;p>❗ Registration will open for HelSec Ry registered members on Thursday 15th of September. Information will be emailed to registered members. If there are available slots on Monday 19th of September 18:00 (EEST), we will open the registration here for non-registered members. More details about membership on &lt;a href="https://helsec.fi">https://helsec.fi&lt;/a>&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>HelSec Ry</title><link>https://helsec.fi/events/</link><description>Recent HelSec Ry events</description><language>en-us</language><lastBuildDate>Tue, 18 Oct 2022 18:00:00 +0300</lastBuildDate><atom:link href="https://helsec.fi/events/index.xml" rel="self" type="application/rss+xml"/><item><title>HelSec October 2022 meetup</title><link>https://helsec.fi/events/2022-10-18_helsec_october_2022_meetup/</link><pubDate>Tue, 18 Oct 2022 18:00:00 +0300</pubDate><guid>https://helsec.fi/events/2022-10-18_helsec_october_2022_meetup/</guid><description>&lt;p>❗ Registration will open for HelSec Ry registered members on Tuesday 11th of October. Information will be emailed to registered members. If there are available slots on Thursday 13th of October 18:00 (EEST), we will open the registration here for non-registered members. More details about membership on &lt;a href="https://helsec.fi">https://helsec.fi&lt;/a>&lt;/p>
+&lt;p>Welcome to the HelSec October 2022 meetup! We will have three awesome presentations from the infosec / cybersecurity industry and beverages will be provided.&lt;/p>
+&lt;p>17:30 - Doors open&lt;/p>
+&lt;p>18:00 - Word by HelSec&lt;/p>
+&lt;p>18:15 - “TBA” by Ilja Ikonen&lt;/p>
+&lt;p>19:00 - Q&amp;amp;A, networking, beverages&lt;/p>
+&lt;p>19:15 - &amp;ldquo;TBA&amp;rdquo; by Jani Kirmanen&lt;/p>
+&lt;p>20:00 - Q&amp;amp;A, networking, beverages&lt;/p>
+&lt;p>20:15 - &amp;ldquo;TBA&amp;rdquo; by Jaakko Jokinen&lt;/p>
+&lt;p>21:00 - Q&amp;amp;A, networking, beverages&lt;/p>
+&lt;p>23:00 - Meetup end. If you&amp;rsquo;re thirsty, we can continue &amp;ldquo;pystyy vetää&amp;rdquo; elsewhere.&lt;/p>
+&lt;p>This meetup will be streamed on Twitch: &lt;a href="https://twitch.tv/helsec">https://twitch.tv/helsec&lt;/a>&lt;/p>
+&lt;p>Speaker bio:&lt;br>
+🔷 Ilja Ikonen - TBA&lt;br>
+🔷 Jani Kirmanen - TBA&lt;br>
+🔷 Jaakko Jokinen - TBA&lt;/p></description></item><item><title>HelSec September 2022 meetup</title><link>https://helsec.fi/events/2022-09-22_helsec_september_2022_meetup/</link><pubDate>Thu, 22 Sep 2022 18:00:00 +0300</pubDate><guid>https://helsec.fi/events/2022-09-22_helsec_september_2022_meetup/</guid><description>&lt;p>❗ Registration will open for HelSec Ry registered members on Thursday 15th of September. Information will be emailed to registered members. If there are available slots on Monday 19th of September 18:00 (EEST), we will open the registration here for non-registered members. More details about membership on &lt;a href="https://helsec.fi">https://helsec.fi&lt;/a>&lt;/p>
 &lt;p>Welcome to the HelSec September 2022 meetup! We will have three awesome presentations from the infosec / cybersecurity industry and beverages will be provided.&lt;/p>
 &lt;p>17:30 - Doors open&lt;/p>
 &lt;p>18:00 - Word by HelSec&lt;/p>
@@ -275,17 +290,4 @@ procedures to build organizational capabilities, including the whole ecosystem. 
 &lt;p>Speaker bio:&lt;br>
 🔹 Nour Fateen is a cybersecurity specialist with over seven years of experience in the industry. Currently at Recorded Future, Nour has spent the last three years helping some of the largest businesses in the world improve their security posture using security intelligence. He has previously held positions in Cisco Systems and Goldman Sachs. Nour received a Master in Electronic Engineering &amp;amp; Nanotechnology from University College London.&lt;br>
 🔹 Silke works for 20 years in telco security and was honored for her security work in 2019 (Suomen Leijonan ritari). She has worked with more security specifications than coffee cups in her life and knows how to spot weak spots in them. Her sec research was presented at BlackHat, DefCon and (most important) Disobey. She recently left a big finnish mobile network vendor and joined a small weird (but extremely interesting) company in Ireland called Adaptive Mobile Security and setting new levels or remote working. There she can get hold of real-life network nation state attacks to telcos (cool), works on threat intelligence (love math &amp;amp; logs &amp;amp; protocols!) and can build and contribute to the best telco firewalls ever that protect millions of people (about time). Now at the dawn of 5G, 5G security has moved into the spotlight and always on the research front, there she goes and explores. Oh, and she officially advises EU ENISA and other governments and operators on 5G Security.&lt;br>
-🔹 Ilhan Gurel currently works for Ericsson in the CTO organization as an expert on trusted HW and SW technologies. His current role involves various security activities related to HW security, SW security, OS &amp;amp; Platform security and practical use of cryptography.&lt;/p></description></item><item><title>HelSec Virtual Meetup #2</title><link>https://helsec.fi/events/2020-06-11_helsec_virtual_meetup_2/</link><pubDate>Thu, 11 Jun 2020 18:00:00 +0300</pubDate><guid>https://helsec.fi/events/2020-06-11_helsec_virtual_meetup_2/</guid><description>&lt;p>Welcome to the HelSec Virtual Meetup 2! 🤗&lt;/p>
-&lt;p>Join the discussion on Discord: &lt;a href="https://discord.gg/NBvCAm8">https://discord.gg/NBvCAm8&lt;/a>&lt;/p>
-&lt;p>18:00 - Stream open and word by HelSec&lt;/p>
-&lt;p>18:20 - Infosec consulting and career progression by Niklas Särökaari&lt;/p>
-&lt;p>19:00 - Forensicating like a boss using cincan and minion by jw&lt;/p>
-&lt;p>19:40 - SharePoint RCE via web control parsing by Ivan Vagunin&lt;/p>
-&lt;p>20:40 - Privecall TX by Arimo Koivisto&lt;/p>
-&lt;p>21:20 - Virtual conference end - Virtual networking and some pystyy vetää will continue on our Discord server (link will be shared during the virtual conference).&lt;/p>
-&lt;p>All times are in EEST (UTC +3).&lt;/p>
-&lt;p>Speaker bio:&lt;br>
-🔹 Niklas Särökaari, Red Teamer at F-Secure&lt;br>
-🔹 jw, Having started his career with a decade of DevOps roles, he migrated to cyber security in the aftermath of Stuxnet. He spent the next five years as a cyber security consultant in Finland and the Middle East before expanding his perspective from single companies to the whole country.&lt;br>
-🔹 Ivan Vagunin, Senior Software Architect at TietoEVRY, proud HelSec Ry member #82, occasional bug bounty hunter (MSRC TOP 100 BH 2018), serial blockchain gamer, CISSP/MCSM&lt;br>
-🔹 Arimo Koivisto, CCO of Xxlsec&lt;/p></description></item></channel></rss>
+🔹 Ilhan Gurel currently works for Ericsson in the CTO organization as an expert on trusted HW and SW technologies. His current role involves various security activities related to HW security, SW security, OS &amp;amp; Platform security and practical use of cryptography.&lt;/p></description></item></channel></rss>
