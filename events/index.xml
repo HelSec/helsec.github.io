@@ -1,4 +1,16 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>HelSec Ry</title><link>https://helsec.fi/events/</link><description>Recent HelSec Ry events</description><language>en-us</language><lastBuildDate>Thu, 26 Jan 2023 17:30:00 +0200</lastBuildDate><atom:link href="https://helsec.fi/events/index.xml" rel="self" type="application/rss+xml"/><item><title>Helsec January 2023 meetup</title><link>https://helsec.fi/events/2023-01-26_helsec_january_2023_meetup/</link><pubDate>Thu, 26 Jan 2023 17:30:00 +0200</pubDate><guid>https://helsec.fi/events/2023-01-26_helsec_january_2023_meetup/</guid><description>&lt;p>❗All available slots were filled by members in pre-registration. If there are cancellations, free slots will be opened for the waiting list.&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>HelSec Ry</title><link>https://helsec.fi/events/</link><description>Recent HelSec Ry events</description><language>en-us</language><lastBuildDate>Thu, 16 Feb 2023 17:30:00 +0200</lastBuildDate><atom:link href="https://helsec.fi/events/index.xml" rel="self" type="application/rss+xml"/><item><title>W4CFI x Elisa x HelSec: Guide for Disobey</title><link>https://helsec.fi/events/2023-02-16_w4cfi_x_elisa_x_helsec_guide_for_disobey/</link><pubDate>Thu, 16 Feb 2023 17:30:00 +0200</pubDate><guid>https://helsec.fi/events/2023-02-16_w4cfi_x_elisa_x_helsec_guide_for_disobey/</guid><description>&lt;p>Have you ever wondered what is Disobey? Or has it been so long that you&amp;rsquo;ve forgotten? If the answer is yes, please join us at the W4CFI x Elisa x HelSec: Guide for Disobey. The event will give an overview of the upcoming Disobey and a discussion on previous Disobeys. The event is especially for those attending Disobey, but all are welcome to join us. So please come and mingle and network with other cybersecurity-minded people.&lt;/p>
+&lt;p>The event is organized together with Elisa and Women4Cyber Finland.&lt;br>
+If you are not yet familiar with W4CFI and/or Disobey, you can check them out here:&lt;br>
+&lt;a href="https://www.women4cyberfinland.com/">Women4Cyber Finland&lt;/a>&lt;br>
+&lt;a href="https://disobey.fi/2023/">Disobey&lt;/a>&lt;/p>
+&lt;p>Refreshments and snacks will be provided! 🥤🌭&lt;/p>
+&lt;p>&lt;strong>Agenda&lt;/strong>&lt;br>
+17:30 - Doors open&lt;br>
+18:00 - A panel discussion hosted by Noora Hammar&lt;br>
+xx - Networking with amazing peeps&lt;br>
+xx - A random surprise&lt;/p>
+&lt;p>&lt;em>&lt;strong>Please note that pictures from the event will be shared in our social media channels.&lt;/strong>&lt;/em>&lt;/p>
+&lt;p>Looking forward to seeing you!&lt;/p></description></item><item><title>Helsec January 2023 meetup</title><link>https://helsec.fi/events/2023-01-26_helsec_january_2023_meetup/</link><pubDate>Thu, 26 Jan 2023 17:30:00 +0200</pubDate><guid>https://helsec.fi/events/2023-01-26_helsec_january_2023_meetup/</guid><description>&lt;p>❗All available slots were filled by members in pre-registration. If there are cancellations, free slots will be opened for the waiting list.&lt;/p>
 &lt;p>Welcome to the HelSec January 2023 meetup!&lt;br>
 We will have two awesome presentations from the infosec / cybersecurity industry and beverages will be provided.&lt;/p>
 &lt;p>17:30 - Doors open&lt;br>
@@ -272,19 +284,4 @@ procedures to build organizational capabilities, including the whole ecosystem. 
 &lt;p>Speaker bio:&lt;br>
 🔹 Ilhan Gurel works for Ericsson in the CTO organization as an expert on trusted HW and SW technologies. Ilhan Gurel lives in Finland. His current role involves various security activities related to HW security, SW security, TEE (Trusted Execution Environment) technologies and practical use of cryptography.&lt;br>
 🔹 Anne Oikarinen is a Senior Security Consultant who works with security and software development teams to help them design and develop secure software. In her current job at Nixu Corporation, Anne divides her time between DevSecOps, cybersecurity exercises and writing about cybersecurity. Anne holds a Master of Science (Tech.) degree in Communication Networks and Protocols from Tampere University of Technology, and maintains the CISSP and GMOB certifications.&lt;br>
-🔹 Peeter Marvet has been trying to make computers do what he wants since &amp;lsquo;85, starting with pirated clones of IBM mainframes running on punchcards - but the computers seem to be still winning. Has produced 10 years of radio, couple of years of TV, worked 15 years in printing industry, has a sailboat and likes to windsurf. Currently resident hacker and chief troublemaker at Estonian largest hosting company Zone.ee&lt;/p></description></item><item><title>HelSec Special Virtual Meetup: Home Labs</title><link>https://helsec.fi/events/2021-01-07_helsec_special_virtual_meetup_home_labs/</link><pubDate>Thu, 07 Jan 2021 18:00:00 +0200</pubDate><guid>https://helsec.fi/events/2021-01-07_helsec_special_virtual_meetup_home_labs/</guid><description>&lt;p>Welcome to the HelSec Special Virtual Meetup: Home Labs! 🤗&lt;/p>
-&lt;p>Join the discussion on Discord: &lt;a href="https://discord.gg/NBvCAm8">https://discord.gg/NBvCAm8&lt;/a>&lt;/p>
-&lt;hr>
-&lt;p>18:00 - Stream start and word by HelSec&lt;/p>
-&lt;p>18:05 - &amp;ldquo;Setting a lab on virtualbox beginners tale.&amp;rdquo; by Marjanah Sadiq&lt;/p>
-&lt;p>18:35- Short break&lt;/p>
-&lt;p>18:45 - &amp;ldquo;My DFIR/malware environment&amp;rdquo; by Juho Jauhiainen&lt;/p>
-&lt;p>19:15 - Short break&lt;/p>
-&lt;p>19:30 - TBA by Ossi Väänänen&lt;/p>
-&lt;p>20:00 - [Virtual conference end] Virtual networking and discussion on our Discord server&lt;/p>
-&lt;p>All times are in EET (UTC +2).&lt;/p>
-&lt;hr>
-&lt;p>Speaker bio:&lt;br>
-🔹 Marjanah Sadiq - Student of embedded software and cybersecurity. Working as Research assistant at University of Jyväskylä.&lt;br>
-🔹 Juho Jauhiainen - Co-Founder of HelSec, Information Security Specialist at NCSC-FI, Podcast host at Turvakäräjät, Former DFIR consultant, Forensics and Cyber Security Instructor at MPK Ry, CISSP, OSCP, GCFA, GREM, GMON, and forever a student (maybe someday his MSc (Tech.) studies will be ready).&lt;br>
-🔹 Ossi Väänänen - Co-Founder of HelSec, Chief Security Architect at Sanoma, OSCP&lt;/p></description></item></channel></rss>
+🔹 Peeter Marvet has been trying to make computers do what he wants since &amp;lsquo;85, starting with pirated clones of IBM mainframes running on punchcards - but the computers seem to be still winning. Has produced 10 years of radio, couple of years of TV, worked 15 years in printing industry, has a sailboat and likes to windsurf. Currently resident hacker and chief troublemaker at Estonian largest hosting company Zone.ee&lt;/p></description></item></channel></rss>
