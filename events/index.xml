@@ -1,4 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>HelSec Ry</title><link>https://helsec.fi/events/</link><description>Recent HelSec Ry events</description><language>en-us</language><lastBuildDate>Thu, 25 May 2023 17:00:00 +0300</lastBuildDate><atom:link href="https://helsec.fi/events/index.xml" rel="self" type="application/rss+xml"/><item><title>Helsec May 2023 meetup</title><link>https://helsec.fi/events/2023-05-25_helsec_may_2023_meetup/</link><pubDate>Thu, 25 May 2023 17:00:00 +0300</pubDate><guid>https://helsec.fi/events/2023-05-25_helsec_may_2023_meetup/</guid><description>&lt;p>Welcome to the HelSec May 2023 meetup!&lt;br>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>HelSec Ry</title><link>https://helsec.fi/events/</link><description>Recent HelSec Ry events</description><language>en-us</language><lastBuildDate>Thu, 29 Jun 2023 17:30:00 +0300</lastBuildDate><atom:link href="https://helsec.fi/events/index.xml" rel="self" type="application/rss+xml"/><item><title>Helsec June 2023 Park Sessions</title><link>https://helsec.fi/events/2023-06-29_helsec_june_2023_park_sessions/</link><pubDate>Thu, 29 Jun 2023 17:30:00 +0300</pubDate><guid>https://helsec.fi/events/2023-06-29_helsec_june_2023_park_sessions/</guid><description>&lt;p>Welcome to the Helsec June 2023 Park Sessions!!!&lt;/p>
+&lt;p>This month&amp;rsquo;s meetup is a bit different.&lt;br>
+We will kick off the summer holidays with the traditional park chill out sessions with no specific agenda in Hesperia Park, next to Finlandia Hall.&lt;br>
+Just come and enjoy the company. HelSec will provide some beverages to participants.&lt;/p>
+&lt;p>There will be no limit for participants, but the amount of beverages will be limited.&lt;/p>
+&lt;p>Preliminary schedule for the day:&lt;/p>
+&lt;p>17:30 - Meet-up start&lt;br>
+-&amp;gt; Chill out &amp;amp; networking&lt;/p></description></item><item><title>Helsec May 2023 meetup</title><link>https://helsec.fi/events/2023-05-25_helsec_may_2023_meetup/</link><pubDate>Thu, 25 May 2023 17:00:00 +0300</pubDate><guid>https://helsec.fi/events/2023-05-25_helsec_may_2023_meetup/</guid><description>&lt;p>Welcome to the HelSec May 2023 meetup!&lt;br>
 Powered by WithSecure&lt;/p>
 &lt;p>This is going to be a BIG one!&lt;br>
 We are going to have capacity of 300 for the event.&lt;br>
@@ -272,19 +279,4 @@ notification&amp;rdquo; by Markus Lintula&lt;/p>
 &lt;hr>
 &lt;p>Speaker bio:&lt;br>
 🔹 Aapo Oksman - Aapo is a Senior Security Specialist at Nixu Cybersecurity, where he works with application, protocol and device security with the focus on industrial IoT. His background is in electrical engineering, embedded devices and test automation. Combining his background with the hobby in hacking lead to a natural career shift to cybersecurity. In his free time, Bug Bounties and CTFs keep Aapo motivated and learning, but he is more interested in developing the tools and making the challenges than actually solving them. Aapo has gained professional and Bug Bounty success with his work in PKI and TLS, resulting in multiple CVEs in notable products from Microsoft and Apple.&lt;br>
-🔹 Ossi Väänänen - Co-Founder of HelSec, Chief Security Architect at Sanoma, OSCP&lt;/p></description></item><item><title>HelSec Virtual Meetup #9</title><link>https://helsec.fi/events/2021-04-29_helsec_virtual_meetup_9/</link><pubDate>Thu, 29 Apr 2021 18:00:00 +0300</pubDate><guid>https://helsec.fi/events/2021-04-29_helsec_virtual_meetup_9/</guid><description>&lt;p>Welcome to the HelSec Virtual Meetup 9! 🤗&lt;/p>
-&lt;p>Join the discussion on Discord: &lt;a href="https://discord.gg/NBvCAm8">https://discord.gg/NBvCAm8&lt;/a>&lt;/p>
-&lt;hr>
-&lt;p>18:00 - Stream start and word by HelSec&lt;/p>
-&lt;p>18:15 - &amp;ldquo;Tonttu pilots - walking the extra mile in cyber security&amp;rdquo; by Jani Kenttälä&lt;/p>
-&lt;p>19:00 - Short break&lt;/p>
-&lt;p>19:15 - ”From Scammer with Love: A view to a scam” by Jani Räty&lt;/p>
-&lt;p>20:00 - Short break&lt;/p>
-&lt;p>20:15 - ”TLS/DTLS, OpenVPN, IPSec, WireGuard. The winner is..&amp;quot; by Ilhan Gurel&lt;/p>
-&lt;p>21:00 - Virtual conference end - Virtual networking and some pystyy vetää will continue on our Discord server&lt;/p>
-&lt;p>All times are in EEST (UTC +3).&lt;/p>
-&lt;hr>
-&lt;p>Speaker bio:&lt;br>
-🔹 Jani Kenttälä makes cyber security easy. It hasn’t always been easy, but over 20 years as a security researcher and serial entrepreneur taught him to think differently. Jani wrapped up his experience from working with CERT teams and critical infrastructure providers and saw how especially small and medium sized companies need help. He founded Badrap to help them. Badrap is set out to make cyber security accessible for all. In the latest push Jani worked with 11 companies in a pilot called “Tonttu” to rapidly improve their security. The results and feedback were stellar. Now he brings good news, building security and trust can be easy.&lt;br>
-🔹 During days, Jani Räty is updating security policies and managing requirements, but during nights he is trying to catch scammers with honeytraps. The National Cyber Security Centre Finland (NCSC-FI) acknowledged his and his colleagues work for fraud prevention with Information Security Trendsetter 2020- award. He is also known in LinkedIn as the other founder of BlueTeamBuilders collective, bringing back the balance to the forc&amp;hellip; security.&lt;br>
-🔹 Ilhan Gurel works for Ericsson in the CTO organization as an expert on trusted HW and SW technologies. His current role involves various security activities related to HW security, SW security, TEE (Trusted Execution Environment) technologies and practical use of cryptography.&lt;/p></description></item></channel></rss>
+🔹 Ossi Väänänen - Co-Founder of HelSec, Chief Security Architect at Sanoma, OSCP&lt;/p></description></item></channel></rss>
