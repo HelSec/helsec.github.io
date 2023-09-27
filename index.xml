@@ -26,7 +26,29 @@ An electrical engineer turned cybersecurity specialist. It was my interest in Io
 Past in the Finance industry in various security, and fraud prevention roles since early 2010s.In addition, advisory roles at Europol’s EC3 and European Commission. Expert witness in fraud related trials. Fraud prevention enthusiast, especially in the areas of online banking and corporate fraud. Master of Finance by education, Behavioural Finance to be exact, so somewhat of an outlier in the Infosec community.&lt;/p>
 &lt;p>🔷 Carolina Angelis: Security Advisor at Truesec&lt;br>
 With almost 20 years in the Swedish military intelligence service, Carolina Angelis has unique insight into the methods of espionage and how to counteract it.&lt;br>
-As a senior advisor at Truesec she helps organizations to prevent and avert insider threats and to create awareness. She is one of Sweden’s most recognized experts when it comes to espionage and human intelligence, and is frequently interviewed on national TV, podcasts, and radio. Carolina is also a published author in the spy fiction genre.&lt;/p></description></item><item><title>HelSec September 2023 Meetup</title><link>https://helsec.fi/events/2023-09-28_helsec_september_2023_meetup/</link><pubDate>Thu, 28 Sep 2023 17:30:00 +0300</pubDate><guid>https://helsec.fi/events/2023-09-28_helsec_september_2023_meetup/</guid><description>&lt;p>Welcome to the HelSec September 2023 Meetup!&lt;/p>
+As a senior advisor at Truesec she helps organizations to prevent and avert insider threats and to create awareness. She is one of Sweden’s most recognized experts when it comes to espionage and human intelligence, and is frequently interviewed on national TV, podcasts, and radio. Carolina is also a published author in the spy fiction genre.&lt;/p></description></item><item><title>HelSec Workshop: Introduction to Ghidra &amp; Firmware Reverse Engineering</title><link>https://helsec.fi/events/2023-10-22_helsec_workshop_introduction_to_ghidra__firmware_reverse_engineering/</link><pubDate>Sun, 22 Oct 2023 12:00:00 +0300</pubDate><guid>https://helsec.fi/events/2023-10-22_helsec_workshop_introduction_to_ghidra__firmware_reverse_engineering/</guid><description>&lt;p>&lt;strong>Introduction to Ghidra and Firmware Reverse Engineering.&lt;/strong>&lt;/p>
+&lt;p>This is an entry level workshop that serves as an introduction to ghidra in the context of hardware firmware reverse engineering. We will be using a multi timezone clock as the case study. The clock uses a MC-48 series microcontroller from the seventies that is quite simple and easier to understand than modern processors.&lt;/p>
+&lt;p>Reading the first 40 pages of [&lt;a href="https://devsaurus.github.io/mcs-48/mcs-48.pdf%5D(https://devsaurus.github.io/mcs-48/mcs-48.pdf">https://devsaurus.github.io/mcs-48/mcs-48.pdf](https://devsaurus.github.io/mcs-48/mcs-48.pdf&lt;/a>) or the start of the MCS-48 users manual should give enough starting information to understand the system. The MCS-48 Users manual in particular has a really good section about how a (simple) processor works.&lt;/p>
+&lt;p>&lt;strong>Please install ghidra ([&lt;a href="https://ghidra-sre.org/%5D(https://ghidra-sre.org/">https://ghidra-sre.org/](https://ghidra-sre.org/&lt;/a>)) beforehand and make sure it runs on your system.&lt;/strong>&lt;/p>
+&lt;p>For OSX users it is recommended to use &amp;lsquo;brew&amp;rsquo; for installing and also install &amp;lsquo;gradle&amp;rsquo; and then in console go to homebrew_base/Caskroom/ghidra//ghidra-/Ghidra/&amp;rsquo; and execute &amp;lsquo;gradle buildNatives&amp;rsquo; to get locally signed versions of the native extensions.&lt;/p>
+&lt;p>&lt;strong>The outline of the workshop will be:&lt;/strong>&lt;/p>
+&lt;ol>
+&lt;li>&lt;strong>A short presentation on the hardware&lt;/strong>&lt;/li>
+&lt;li>&lt;strong>Guided setup of the ghidra project&lt;/strong>&lt;/li>
+&lt;li>&lt;strong>Guided tour of the main ghidra features&lt;/strong>&lt;/li>
+&lt;li>&lt;strong>Reverse engineering the firmware in small groups&lt;/strong>&lt;/li>
+&lt;/ol>
+&lt;ul>
+&lt;li>&lt;strong>Few hints will be provided as the workshop progresses&lt;/strong>&lt;/li>
+&lt;/ul>
+&lt;ol start="5">
+&lt;li>&lt;strong>At the end we will go through the program and what it does&lt;/strong>&lt;/li>
+&lt;/ol>
+&lt;p>The event will be hosted at Elisa premises in Pasila.&lt;br>
+Registration will close on Thursday 19.10 at 4 PM.&lt;br>
+Participants will need to provide their full name for Elisa&amp;rsquo;s visitor registration.&lt;/p>
+&lt;p>Trainer bio:&lt;br>
+🔷 Vesa-Pekka Palmu is a software developer and a hobbyist hardware hacker. He has experience in reverse engineering and resurrecting or repurposing many obsolete devices or protocols.&lt;/p></description></item><item><title>HelSec September 2023 Meetup</title><link>https://helsec.fi/events/2023-09-28_helsec_september_2023_meetup/</link><pubDate>Thu, 28 Sep 2023 17:30:00 +0300</pubDate><guid>https://helsec.fi/events/2023-09-28_helsec_september_2023_meetup/</guid><description>&lt;p>Welcome to the HelSec September 2023 Meetup!&lt;/p>
 &lt;p>Powered by the community!&lt;/p>
 &lt;p>The event is restricted from under 18 year olds.&lt;/p>
 &lt;p>Food &amp;amp; beverages will be available.&lt;/p>
@@ -273,22 +295,4 @@ Zip (FinTech): &lt;a href="https://www.youtube.com/watch?v=TC9j-sjxK84">https://
 &lt;p>HelSec will reward the winner.&lt;/p>
 &lt;p>Requirements: Laptop💻&lt;/p>
 &lt;p>Doors open at the premises 16:30&lt;br>
-There will be snacks &amp;amp; refreshments on-site.&lt;/p></description></item><item><title>HelSec April 2022 meetup</title><link>https://helsec.fi/events/2022-04-14_helsec_april_2022_meetup/</link><pubDate>Thu, 14 Apr 2022 18:00:00 +0300</pubDate><guid>https://helsec.fi/events/2022-04-14_helsec_april_2022_meetup/</guid><description>&lt;p>❗️ Update: Adding more slots&lt;/p>
-&lt;p>❗ Update: There will be only 10 slots available through meetup.com as many of our registered members have signed up to the event.&lt;/p>
-&lt;p>❗ Registration will open for HelSec Ry registered members on Thursday 31st of March. Information will be emailed to registered members. If there are available slots on Thursday 7th of April 18:00 (EEST), we will open the registration here for non-registered members. More details about membership on &lt;a href="https://helsec.fi">https://helsec.fi&lt;/a>&lt;/p>
-&lt;p>Welcome to the HelSec April 2022 meetup! We will have three speakers from the infosec / cybersecurity industry and beverages will be provided. This event is powered by 2NS.&lt;/p>
-&lt;p>17:30 - Doors open&lt;/p>
-&lt;p>18:00 - Word by HelSec&lt;/p>
-&lt;p>18:15 - &amp;ldquo;World disorder: security outlook and implications&amp;rdquo; by V-P Kivimäki&lt;/p>
-&lt;p>19:00 - Q&amp;amp;A, networking, beverages&lt;/p>
-&lt;p>19:15 - &amp;ldquo;What do I do now?&amp;rdquo; by Heikki Stark&lt;/p>
-&lt;p>20:00 - Q&amp;amp;A, networking, beverages&lt;/p>
-&lt;p>20:15 - &amp;ldquo;OSINT data as part of profiling Key persons of your organization:&lt;br>
-Avoid The Hook&amp;rdquo; by Samuli Järvinen (NOTE: The talk will not be streamed / recorded)&lt;/p>
-&lt;p>21:00 - Q&amp;amp;A, networking, beverages, fun&lt;/p>
-&lt;p>21:30 - Doors closed, let&amp;rsquo;s continue pystyy vetää elsewhere&lt;/p>
-&lt;p>This meetup will be streamed on Twitch: &lt;a href="https://twitch.tv/helsec">https://twitch.tv/helsec&lt;/a>&lt;/p>
-&lt;p>Speaker bio:&lt;br>
-🔷 Veli-Pekka Kivimäki - Veli-Pekka is a Senior Analyst with the Finnish Security and Intelligence Service (Supo). He is also a researcher focusing on open-source intelligence (OSINT) and social media, an adjunct lecturer in Geospatial Intelligence at the Johns Hopkins University, and a visiting lecturer on OSINT at the University of Jyväskylä. He has also previously published analyses with the award-winning Bellingcat group.&lt;br>
-🔷 Heikki Stark - Heikki is a Security Consultant at WithSecure, but is also a volunteer at KyberVPK – Community Cyber Response Force&lt;br>
-🔷 Samuli Järvinen - Samuli is an entrepreneur. Prior his own business NUUH, he was working for CGI. He&amp;rsquo;s currently PhD Student at National Defense University and Tampere University.&lt;/p></description></item></channel></rss>
+There will be snacks &amp;amp; refreshments on-site.&lt;/p></description></item></channel></rss>
