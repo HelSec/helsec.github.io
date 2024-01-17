@@ -20,7 +20,34 @@
 &lt;p>The event will be hosted at Elisa premises in Pasila.&lt;br>
 Participants will need to provide their full name for Elisa&amp;rsquo;s visitor registration.&lt;/p>
 &lt;p>Trainer bio:&lt;br>
-🔷 Vesa-Pekka Palmu is a software developer and a hobbyist hardware hacker. He has experience in reverse engineering and resurrecting or repurposing many obsolete devices or protocols.&lt;/p></description></item><item><title>HelSec 5 Year Anniversary Meetup (Placeholder)</title><link>https://helsec.fi/events/2024-01-19_helsec_5_year_anniversary_meetup_placeholder/</link><pubDate>Fri, 19 Jan 2024 17:30:00 +0200</pubDate><guid>https://helsec.fi/events/2024-01-19_helsec_5_year_anniversary_meetup_placeholder/</guid><description>&lt;p>Welcome to the HelSec`s 5th Anniversary Meetup!&lt;/p>
+🔷 Vesa-Pekka Palmu is a software developer and a hobbyist hardware hacker. He has experience in reverse engineering and resurrecting or repurposing many obsolete devices or protocols.&lt;/p></description></item><item><title>HelSec 5 Year Anniversary Meetup</title><link>https://helsec.fi/events/2024-01-19_helsec_5_year_anniversary_meetup/</link><pubDate>Fri, 19 Jan 2024 17:30:00 +0200</pubDate><guid>https://helsec.fi/events/2024-01-19_helsec_5_year_anniversary_meetup/</guid><description>&lt;p>Welcome to the HelSec`s 5th Anniversary Meetup!&lt;/p>
+&lt;p>Powered by the Community!&lt;/p>
+&lt;p>Beverages will be provided on site by Olarin Panimo.&lt;br>
+HelSec will offer the first round on the house.&lt;/p>
+&lt;p>&lt;strong>Sign-ups:&lt;/strong>&lt;br>
+We are using our own ticketing system in order to make the entry go smoother. You will get a ticket with a QR Code that will be scanned at the door.&lt;br>
+The sign-ups will open &lt;strong>3.1 at 17:00&lt;/strong> and can be found at:&lt;br>
+&lt;strong>[&lt;a href="https://events.helsec.fi/helsec/mqzbw/%5D(https://events.helsec.fi/helsec/mqzbw/">https://events.helsec.fi/helsec/mqzbw/](https://events.helsec.fi/helsec/mqzbw/&lt;/a>)&lt;/strong>&lt;a href="https://events.helsec.fi/helsec/mqzbw/"> &lt;/a>&lt;/p>
+&lt;p>&lt;strong>Schedule:&lt;/strong>&lt;br>
+17:30 - Doors open&lt;br>
+18:00 - Word by HelSec&lt;br>
+18:10 - Juho Jauhiainen - Story of HelSec&lt;br>
+19:00 - Q&amp;amp;A, networking&lt;br>
+19:20 - Joona Hoikkala - Ffu-ffu-fuzzing fhe feb (Redux)&lt;br>
+20:00 - Q&amp;amp;A, food and networking hour + &lt;strong>Disobey ticket quiz&lt;/strong>&lt;br>
+21:00 - Joakim Tauren - Cyber Due Diligence: Lessons learned after 200 cases, the fun and the grind of buying companies&lt;br>
+21:45 - Q&amp;amp;A, networking&lt;br>
+22:10 - Shamil Afilov - A brief look at all things infostealers&lt;br>
+23:00 - Q&amp;amp;A, networking, end of stream&lt;br>
+23-&amp;gt; - B2B DJ Set by FinFog ThinFog&lt;/p>
+&lt;p>&lt;strong>Speaker bios:&lt;/strong>&lt;br>
+🔷 Juho Jauhiainen - is an experienced DFIR expert but that has nothing to do with this speech. In 2018, Juho started planning to set up HelSec together with Osku and the first meetup took place in January 2019. Until the end of 2023, Juho has contributed to HelSec&amp;rsquo;s board but will now take a back seat.&lt;br>
+The speech is also a farewell to the running of the organisation, at least for the time being.&lt;br>
+🔷 Joona Hoikkala - is a privacy and security enthusiast hacker and open so(u)rcerer involved in projects like Certbot, acme-dns and ffuf.&lt;br>
+🔷 Joakim Tauren - CISO, Small Business Segment, Visma. Dad, fly fisher, hobby wood worker, aspiring communicator. Helping companies in Visma to make better security decisions every day.&lt;br>
+🔷 Shamil Afilov - TurkuSec/PerSec Camp/CitySec, DisObey volunteer, Threat Intel at Nixu, Dad of twin rascals&lt;/p>
+&lt;p>&lt;strong>Streaming:&lt;/strong>&lt;br>
+Meetup will be streamed on Twitch: [&lt;a href="https://twitch.tv/helsec%5D(https://events.helsec.fi/redirect/?url=https%3A//twitch.tv/helsec%3AvkLheGTncgEMoRFAdQ81UFqvEiYGehvkzxo9QM6MUQo">https://twitch.tv/helsec](https://events.helsec.fi/redirect/?url=https%3A//twitch.tv/helsec%3AvkLheGTncgEMoRFAdQ81UFqvEiYGehvkzxo9QM6MUQo&lt;/a>)&lt;/p></description></item><item><title>HelSec 5 Year Anniversary Meetup (Placeholder)</title><link>https://helsec.fi/events/2024-01-19_helsec_5_year_anniversary_meetup_placeholder/</link><pubDate>Fri, 19 Jan 2024 17:30:00 +0200</pubDate><guid>https://helsec.fi/events/2024-01-19_helsec_5_year_anniversary_meetup_placeholder/</guid><description>&lt;p>Welcome to the HelSec`s 5th Anniversary Meetup!&lt;/p>
 &lt;p>Powered by the Community!&lt;/p>
 &lt;p>Beverages will be provided on site by Olarin Panimo.&lt;br>
 HelSec will offer the first round on the house.&lt;/p>
@@ -321,20 +348,4 @@ Speaker bio:&lt;br>
 &lt;p>Speaker bio:&lt;br>
 🔷 Matti Särkisilta - Matti is a technical architect with long experience from IT security and development projects. He has a deep understanding of Identity management architecture including provisioning, security, digital identity and access rights management. Matti graduated from University Institute of Lisbon in 2002 with a Bachelor degree in Computer Science majoring in IT Systems and minoring in Cryptography.&lt;br>
 🔷 Jarmo Lahtiranta - Jarmo is a Product Security Specialist at Insta Group. He has a history in ethical hacking, has worked in the Finnish National CERT and is now helping companies improve the security of their products.&lt;br>
-🔷 Tomi Koski - Tomi has been working with IT-systems for many moons, actually since (the wonderful) 1990’s. He is passionate about anything related tosecurity, combining both physical and virtual worlds. He is a constant learner and very curious person about life and bug bounties. Currently, he is working for Visma as a Red (read: Purple) Teamer.&lt;/p></description></item><item><title>HelSec August 2022 meetup</title><link>https://helsec.fi/events/2022-08-25_helsec_august_2022_meetup/</link><pubDate>Thu, 25 Aug 2022 17:30:00 +0300</pubDate><guid>https://helsec.fi/events/2022-08-25_helsec_august_2022_meetup/</guid><description>&lt;p>❗ ❗ This meetup became full by HelSec Ry registered members. Meetup.com will act as a waiting list and we will open slots if we get cancellations from registered members.&lt;/p>
-&lt;p>❗ Registration will open for HelSec Ry registered members on Monday 15th of August. Information will be emailed to registered members. If there are available slots on Monday 22nd of August 18:00 (EEST), we will open the registration here for non-registered members. More details about membership on &lt;a href="https://helsec.fi">https://helsec.fi&lt;/a>&lt;/p>
-&lt;p>Welcome to the HelSec August 2022 meetup! We will have two presentations from the infosec / cybersecurity industry and beverages will be provided.&lt;/p>
-&lt;p>17:30 - Doors open&lt;/p>
-&lt;p>18:15 - Word by HelSec&lt;/p>
-&lt;p>18:30 - ”Battle against fraud calls” by KRP, Traficom and Elisa&lt;/p>
-&lt;p>19:15 - Q&amp;amp;A, networking, beverages&lt;/p>
-&lt;p>19:30 - &amp;ldquo;What the BEC?!&amp;rdquo; by Niklas Särökaari&lt;/p>
-&lt;p>20:15 - Q&amp;amp;A, networking, beverages&lt;/p>
-&lt;p>21:00 - Doors closed, let&amp;rsquo;s continue pystyy vetää elsewhere&lt;/p>
-&lt;p>This meetup will be streamed on Twitch: &lt;a href="https://twitch.tv/helsec">https://twitch.tv/helsec&lt;/a>&lt;/p>
-&lt;p>Speaker bio:&lt;br>
-🔷 Jussi Larvanto - Detective Sergeant, International Cooperation Expert at the National Bureau of Investigation. Country-representative in several cross-border law enforcement projects regarding prevention of cyber-enabled fraud.&lt;br>
-🔷 Lauri Isotalo - Development Manager, works in Development and Co-operation Unit in NCSC-FI. Main duties on leading data analytics and related development projects. Task force leader in telecom projects regarding prevention of cyber-enabled fraud.&lt;br>
-🔷 Jukka Pietarinen - Security Manager, Elisa Production, Security management and security capability development on Elisa&amp;rsquo;s Telecom area.&lt;br>
-🔷 Karri Jäkkö - Head of Department, Elisa cSOC, Cyber Security and Service Operations Center. Cyber security and service availability monitoring and incident response for Elisa´s services.&lt;br>
-🔷 Niklas Särökaari - Niklas is a former security consultant with background in offensive security services, such as red teaming. Niklas migrated into defensive side where he is now part of the KONE security operations team with focus on incident response, threat hunting and detection engineering.&lt;/p></description></item></channel></rss>
+🔷 Tomi Koski - Tomi has been working with IT-systems for many moons, actually since (the wonderful) 1990’s. He is passionate about anything related tosecurity, combining both physical and virtual worlds. He is a constant learner and very curious person about life and bug bounties. Currently, he is working for Visma as a Red (read: Purple) Teamer.&lt;/p></description></item></channel></rss>
