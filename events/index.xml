@@ -6,16 +6,16 @@ Details will follow closer to the event.&lt;/p>
 If you&amp;rsquo;re interested in having a flashtalk of max 15-20 mins, please mail [masked].&lt;/p>
 &lt;p>&lt;strong>17:30&lt;/strong> - Doors open&lt;br>
 &lt;strong>18:00&lt;/strong> - Word by HelSec&lt;br>
-&lt;strong>18:10&lt;/strong> - TBA&lt;br>
+&lt;strong>18:10&lt;/strong> - Approaching GenAI with Security in mind - Satu Korhonen&lt;br>
 &lt;strong>19:00&lt;/strong> - Q&amp;amp;A, networking&lt;br>
-&lt;strong>19:15&lt;/strong> - TBA&lt;br>
+&lt;strong>19:15&lt;/strong> - Resilience and Situational Awareness through Data Integrity - So how do you know when you are being lied to? - Tuuli Siiskonen&lt;br>
 &lt;strong>20:00&lt;/strong> - Q&amp;amp;A, networking&lt;br>
 &lt;strong>20:30&lt;/strong> - Opportunity for Flashtalks!&lt;br>
 &lt;strong>22:00 -&lt;/strong> Event ends&lt;/p>
 &lt;p>This meetup will be streamed on Twitch: &lt;a href="https://twitch.tv/helsec">https://twitch.tv/helsec&lt;/a>&lt;/p>
 &lt;p>Speaker bios:&lt;/p>
-&lt;p>🔷TBA&lt;br>
-🔷 TBA&lt;/p></description></item><item><title>HelSec Workshop: Introduction to Ghidra &amp; Firmware Reverse Engineering</title><link>https://helsec.fi/events/2024-02-25_helsec_workshop_introduction_to_ghidra__firmware_reverse_engineering/</link><pubDate>Sun, 25 Feb 2024 12:00:00 +0200</pubDate><guid>https://helsec.fi/events/2024-02-25_helsec_workshop_introduction_to_ghidra__firmware_reverse_engineering/</guid><description>&lt;p>&lt;strong>**THIS IS THE RE-ORGANIZING OF THE POSTPONED WORKSHOP FROM OCTOBER. FIRST OPTION WILL BE GIVEN TO THE PARTICIPANTS TO EARLIER WORKSHOP. SLOTS WILL BE OPENED IN CASE THERE ARE CANCELATIONS.**&lt;/strong>&lt;/p>
+&lt;p>🔷Satu Korhonen is a Machine Learning Engineer at Solita in Finland with a mission to combine developers and business people in creating safe and robust machine learning solutions that bring long-term business value. She thrives with complicated problems with a plethora of necessary viewpoints to fill business needs while taking end-users into account to create AI solutions that are safe and secure for everyone.&lt;br>
+🔷 Tuuli Siiskonen is an Information Security professional, agile security coach, technology enthusiast with human interface. She does red teaming, penetration testing, security incident response, machine learning and software security in cloud, IoT and ICT. She wakes up in the morning to solve problems.&lt;/p></description></item><item><title>HelSec Workshop: Introduction to Ghidra &amp; Firmware Reverse Engineering</title><link>https://helsec.fi/events/2024-02-25_helsec_workshop_introduction_to_ghidra__firmware_reverse_engineering/</link><pubDate>Sun, 25 Feb 2024 12:00:00 +0200</pubDate><guid>https://helsec.fi/events/2024-02-25_helsec_workshop_introduction_to_ghidra__firmware_reverse_engineering/</guid><description>&lt;p>&lt;strong>**THIS IS THE RE-ORGANIZING OF THE POSTPONED WORKSHOP FROM OCTOBER. FIRST OPTION WILL BE GIVEN TO THE PARTICIPANTS TO EARLIER WORKSHOP. SLOTS WILL BE OPENED IN CASE THERE ARE CANCELATIONS.**&lt;/strong>&lt;/p>
 &lt;p>&lt;strong>Introduction to Ghidra and Firmware Reverse Engineering.&lt;/strong>&lt;/p>
 &lt;p>This is an entry level workshop that serves as an introduction to ghidra in the context of hardware firmware reverse engineering. We will be using a multi timezone clock as the case study. The clock uses a MC-48 series microcontroller from the seventies that is quite simple and easier to understand than modern processors.&lt;/p>
 &lt;p>Reading the first 40 pages of [&lt;a href="https://devsaurus.github.io/mcs-48/mcs-48.pdf%5D(https://devsaurus.github.io/mcs-48/mcs-48.pdf">https://devsaurus.github.io/mcs-48/mcs-48.pdf](https://devsaurus.github.io/mcs-48/mcs-48.pdf&lt;/a>) or the start of the MCS-48 users manual should give enough starting information to understand the system. The MCS-48 Users manual in particular has a really good section about how a (simple) processor works.&lt;/p>
