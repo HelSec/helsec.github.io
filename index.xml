@@ -1,4 +1,23 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>HelSec Ry</title><link>https://helsec.fi/</link><description>Recent HelSec Ry events</description><language>en-us</language><atom:link href="https://helsec.fi/index.xml" rel="self" type="application/rss+xml"/><item><title>HelSec September 2024 Meetup</title><link>https://helsec.fi/events/2024-09-12_helsec_september_2024_meetup/</link><pubDate>Thu, 12 Sep 2024 17:30:00 +0300</pubDate><guid>https://helsec.fi/events/2024-09-12_helsec_september_2024_meetup/</guid><description>&lt;p>Date &amp;amp; venue for the September meet-up confirmed, mark your calendars.&lt;br>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>HelSec Ry</title><link>https://helsec.fi/</link><description>Recent HelSec Ry events</description><language>en-us</language><atom:link href="https://helsec.fi/index.xml" rel="self" type="application/rss+xml"/><item><title>HelSec December 2024 Meetup (placeholder)</title><link>https://helsec.fi/events/2024-12-12_helsec_december_2024_meetup_placeholder/</link><pubDate>Thu, 12 Dec 2024 17:30:00 +0200</pubDate><guid>https://helsec.fi/events/2024-12-12_helsec_december_2024_meetup_placeholder/</guid><description>&lt;p>Welcome to HelSec December meetup!&lt;/p>
+&lt;p>Further information TBA. Mark you calendars!&lt;/p></description></item><item><title>HelSec November 2024 Meetup</title><link>https://helsec.fi/events/2024-11-21_helsec_november_2024_meetup/</link><pubDate>Thu, 21 Nov 2024 17:30:00 +0200</pubDate><guid>https://helsec.fi/events/2024-11-21_helsec_november_2024_meetup/</guid><description>&lt;p>Welcome to HelSec November meetup!&lt;/p>
+&lt;p>The event is powered by: Mehiläinen&lt;/p>
+&lt;p>&lt;strong>!!! ATTENTION !!!&lt;/strong>&lt;br>
+&lt;strong>Registration is done through HelSec ticketing system, found &lt;a href="https://events.helsec.fi/helsec/nvmbr/">here&lt;/a>.&lt;/strong>&lt;br>
+&lt;strong>Registration opens on Monday 21.10 at 17:00&lt;/strong>&lt;/p>
+&lt;p>Schedule:&lt;br>
+17:30 - Doors open&lt;br>
+18:00 - Showtime&lt;br>
+18:15 - TBA&lt;br>
+19:00 - Break&lt;br>
+19:20 - Heikki ”zokol” Juva - State of Union&lt;br>
+20:00ish - Break&lt;br>
+20:20 - Joona &amp;ldquo;Rinorragi&amp;rdquo; Immonen - My experiences on Defender External Attack Surface Management&lt;br>
+21:00 - Networking &amp;amp; &lt;strong>Opportunity for flash talks! (Send your ideas by email to [masked])&lt;/strong>&lt;br>
+23:30 - Event ends&lt;/p>
+&lt;p>&lt;strong>Speaker BIOS:&lt;/strong>&lt;/p>
+&lt;p>&lt;strong>TBA&lt;/strong>&lt;/p>
+&lt;p>&lt;strong>Heikki &amp;quot; zokol&amp;quot; Juva&lt;/strong> is a hacker and engineer with extensive experience in R&amp;amp;D projects. Over the past decade, he has led software development and system security initiatives in battery technology and critical infrastructure sectors. His ability to create prototypes by combining mechanics, electronics, and software has been instrumental in the success of various projects, including the electronic badges for the Disobey event.&lt;/p>
+&lt;p>&lt;strong>Joona &amp;ldquo;Rinorragi&amp;rdquo; Immonen&lt;/strong> is a cloud security consultant with background as a developer. He has been early adopter in both cloud and DevSecOps. Lately he has been focusing on delivering secure cloud solutions on Azure as a cloud and security architect.&lt;/p></description></item><item><title>HelSec September 2024 Meetup</title><link>https://helsec.fi/events/2024-09-12_helsec_september_2024_meetup/</link><pubDate>Thu, 12 Sep 2024 17:30:00 +0300</pubDate><guid>https://helsec.fi/events/2024-09-12_helsec_september_2024_meetup/</guid><description>&lt;p>Date &amp;amp; venue for the September meet-up confirmed, mark your calendars.&lt;br>
 More info will provided later.&lt;/p></description></item><item><title>HelSec Summer 2024 Park Hangout</title><link>https://helsec.fi/events/2024-07-26_helsec_summer_2024_park_hangout/</link><pubDate>Fri, 26 Jul 2024 17:30:00 +0300</pubDate><guid>https://helsec.fi/events/2024-07-26_helsec_summer_2024_park_hangout/</guid><description>&lt;p>Welcome to the traditional HelSec Summer park hangout!&lt;/p>
 &lt;p>As usual during summer, we are having a more unformal meetup.&lt;br>
 It&amp;rsquo;s more about getting together, mingling and having a good time.&lt;br>
@@ -312,28 +331,4 @@ Speaker bio:&lt;br>
 🔷 Antti Alestalo - Cyber Security Specialist, IC Security&lt;br>
 Antti is an experienced cyber security specialist and an independent consultant. He has over 15 years of experience from technical cyber security, mostly from technical testing. Last 9 years he has focused on industrial control system security from auditing, design and incident response perspectives. He is currently working on securing the future Finnish railway system in the Digirail project.&lt;br>
 🔷 Laura Kankaala – Threat Intelligence Lead, F-Secure&lt;br>
-As threat intelligence lead, Laura specialises in understanding the latest scams, hacks and fraudulent behaviours in cyber crime and current threats that affect all of us. Her background primarily lies in offensive security (ethical hacking), before she was appointed as Threat Intelligence Lead at F-Secure.&lt;/p></description></item><item><title>W4CFI x Elisa x HelSec: Guide for Disobey</title><link>https://helsec.fi/events/2023-02-16_w4cfi_x_elisa_x_helsec_guide_for_disobey/</link><pubDate>Thu, 16 Feb 2023 17:30:00 +0200</pubDate><guid>https://helsec.fi/events/2023-02-16_w4cfi_x_elisa_x_helsec_guide_for_disobey/</guid><description>&lt;p>Have you ever wondered what is Disobey? Or has it been so long that you&amp;rsquo;ve forgotten? If the answer is yes, please join us at the W4CFI x Elisa x HelSec: Guide for Disobey. The event will give an overview of the upcoming Disobey and a discussion on previous Disobeys. The event is especially for those attending Disobey, but all are welcome to join us. So please come and mingle and network with other cybersecurity-minded people.&lt;/p>
-&lt;p>The event is organized together with Elisa and Women4Cyber Finland.&lt;br>
-If you are not yet familiar with W4CFI and/or Disobey, you can check them out here:&lt;br>
-&lt;a href="https://www.women4cyberfinland.com/">Women4Cyber Finland&lt;/a>&lt;br>
-&lt;a href="https://disobey.fi/2023/">Disobey&lt;/a>&lt;/p>
-&lt;p>Refreshments and snacks will be provided! 🥤🌭&lt;/p>
-&lt;p>&lt;strong>Agenda&lt;/strong>&lt;br>
-17:30 - Doors open&lt;br>
-18:00 - A panel discussion hosted by Noora Hammar&lt;br>
-xx - Networking with amazing peeps&lt;br>
-xx - A random surprise&lt;/p>
-&lt;p>&lt;em>&lt;strong>Please note that pictures from the event will be shared in our social media channels.&lt;/strong>&lt;/em>&lt;/p>
-&lt;p>Looking forward to seeing you!&lt;/p></description></item><item><title>Helsec January 2023 meetup</title><link>https://helsec.fi/events/2023-01-26_helsec_january_2023_meetup/</link><pubDate>Thu, 26 Jan 2023 17:30:00 +0200</pubDate><guid>https://helsec.fi/events/2023-01-26_helsec_january_2023_meetup/</guid><description>&lt;p>❗All available slots were filled by members in pre-registration. If there are cancellations, free slots will be opened for the waiting list.&lt;/p>
-&lt;p>Welcome to the HelSec January 2023 meetup!&lt;br>
-We will have two awesome presentations from the infosec / cybersecurity industry and beverages will be provided.&lt;/p>
-&lt;p>17:30 - Doors open&lt;br>
-18:00 - Word by HelSec&lt;br>
-18:15 - &amp;ldquo;How Tech Changes Us -We&amp;rsquo;re Only Human&amp;rdquo; by Noora Hammar&lt;br>
-19:00 - Q&amp;amp;A, networking, beverages&lt;br>
-19:15 - “Story of a security breach” by Jouni Mikkola&lt;br>
-20:00 - Q&amp;amp;A, networking, beverages, end of stream.&lt;/p>
-&lt;p>This meetup will be streamed on Twitch: &lt;a href="https://twitch.tv/helsec">https://twitch.tv/helsec&lt;/a>&lt;br>
-Speaker bio:&lt;br>
-🔷 Noora Hammar - Noora is a seasoned cybersecurity professional with extensive experience from working in a variety of roles under the cyber and information security umbrella. Besides her daily work as a Manager at Accenture Security, she does a lot of work in the Finnish NGO scene such as the founder of Women4Cyber Finland, Chairwoman at HelSec ry, member of the Board at Next Gen Hack FI ry and member of the Board at Disobey ry.&lt;br>
-🔷 Jouni Mikkola - Jouni has been part of the Nixu’s DFIR team for several years and has been included in hundreds of incident response investigations. Jouni also has a special love for threat hunting and is tinkering around the subjects during his free time to learn more. Jouni has 15 years of experience from the IT field, from which the last 5 from the Cyber Security realm. Currently, Jouni is managing the SOC Solutions and Technologies team at Nixu.&lt;/p></description></item></channel></rss>
+As threat intelligence lead, Laura specialises in understanding the latest scams, hacks and fraudulent behaviours in cyber crime and current threats that affect all of us. Her background primarily lies in offensive security (ethical hacking), before she was appointed as Threat Intelligence Lead at F-Secure.&lt;/p></description></item></channel></rss>
