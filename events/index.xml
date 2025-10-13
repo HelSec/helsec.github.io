@@ -1,4 +1,53 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>HelSec Ry</title><link>https://helsec.fi/events/</link><description>Recent HelSec Ry events</description><language>en-us</language><atom:link href="https://helsec.fi/events/index.xml" rel="self" type="application/rss+xml"/><item><title>HelSec June 2025 Meetup</title><link>https://helsec.fi/events/2025-06-12_helsec_june_meetup/</link><pubDate>Thu, 12 Jun 2025 17:30:00 +0200</pubDate><guid>https://helsec.fi/events/2025-06-12_helsec_june_meetup/</guid><description>&lt;p>Welcome to the HelSec June meetup!&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>HelSec Ry</title><link>https://helsec.fi/events/</link><description>Recent HelSec Ry events</description><language>en-us</language><atom:link href="https://helsec.fi/events/index.xml" rel="self" type="application/rss+xml"/><item><title>HelSec September 2025 Meetup</title><link>https://helsec.fi/events/2025-09-25_helsec_september_meetup/</link><pubDate>Thu, 25 Sep 2025 17:30:00 +0200</pubDate><guid>https://helsec.fi/events/2025-09-25_helsec_september_meetup/</guid><description>&lt;p>Welcome to the HelSec September meetup!&lt;/p>
+&lt;p>This event is powered by &lt;strong>WithSecure&lt;/strong>.&lt;/p>
+&lt;p>&lt;em>&lt;strong>ATTENTION - UNFORTUNATELY THIS MONTH&amp;rsquo;S EVENT IS ALREADY FULL AS WE ARE USING OUR OWN TICKETING SYSTEM. INFORMATION WAS POSTED IN OUR SOCIAL MEDIA CHANNELS. HELSEC BOARD IS SORRY FOR NOT POSTING THE EVENT FOR MEEETUP MEMBERS EARLIER AND WE WILL MAKE SURE TO DO BETTER IN THE FUTURE.&lt;/strong>&lt;/em>&lt;/p>
+&lt;p>We’re excited to invite you to the HelSec September meetup on Thursday, September 25th!
+This evening is going to be a little different from your usual meetup: first, we’ll have insightful talks from &lt;strong>Ismayil Hasanov&lt;/strong> and &lt;strong>Arkadii Dubinin&lt;/strong>.
+After that, we’ll head over to explore &lt;strong>WithSecure’s Museum of Malware Art&lt;/strong>: a fascinating, one-of-a-kind collection that dives into the history (and future) of cyberattacks, and what they mean for all of us.&lt;/p>
+&lt;p>&lt;strong>Important&lt;/strong>: To join the Museum of Malware Art tour during the meetup, you must also register separately via the link given in the event ticket.&lt;/p>
+&lt;p>If your plans change, please remember to cancel your ticket so that someone on the wait list can grab your spot.&lt;/p>
+&lt;h2 id="schedule">Schedule&lt;/h2>
+&lt;p>17:30 – Doors open
+18:00 – Opening words by HelSec
+18:10 – Ismayil Hasanov
+19:00 – Q&amp;amp;A, networking
+19:15 – Arkadii Dubinin
+20:00 – Q&amp;amp;A, networking
+20:30 – Guided tour at the Museum of Malware Art
+22:00 – Event ends&lt;/p>
+&lt;h2 id="speaker-bio">Speaker bio:&lt;/h2>
+&lt;p>🔷 &lt;strong>Ismayil Hasanov&lt;/strong> - Sauna-Proofing the Code: Evaluating a Human-Supervised LLM SDLC with Multi-Agent Review, Security Gates, and Reality Checks (or “How to Keep Generative AI from Steaming Your Prod on a Friday&amp;quot;). Ismail earned his MSc in Information and Communication Technology from the University of Turku, Finland, in 2023. He is a Project Researcher at the University of Turku’s Cyber Security Lab, a board member at Varsinais-Suomen Tietojenkäsittely-yhdistys ry (VSTKY) and the Chairperson of TurkuSec ry (oldest citysec of Finland), the information-security association in Turku. With 7+ years of industry experience, his interests include network security, cybersecurity policies, and the security and responsible use of LLMs and AI in cybersecurity.&lt;/p>
+&lt;p>🔷 &lt;strong>Arkadii Dubinin&lt;/strong> - Exploring the OWASP Ecosystem for Practical Vulnerability Management. Arkadii is a cybersecurity researcher and Sales Manager at the telecom company VoxiQuity OY. He holds a Bachelor’s degree in Business and Information Technology. His research is focused on comparing the effectiveness of open-source and commercial vulnerability scanning tools for vulnerability detection, using the OWASP methodology. With practical experience across a range of cybersecurity tools and operating systems, Arkadii is passionate about making security both practical and accessible.&lt;/p>
+&lt;h2 id="streaming">Streaming&lt;/h2>
+&lt;p>Meetup will be streamed on Twitch: &lt;a href="https://twitch.tv/helsec">https://twitch.tv/helsec&lt;/a>&lt;/p></description></item><item><title>HelSec August 2025 Meetup</title><link>https://helsec.fi/events/2025-08-21_helsec_august_meetup/</link><pubDate>Thu, 21 Aug 2025 17:30:00 +0200</pubDate><guid>https://helsec.fi/events/2025-08-21_helsec_august_meetup/</guid><description>&lt;p>Welcome to the HelSec August meetup!&lt;/p>
+&lt;p>This event is powered by &lt;strong>Elisa&lt;/strong>.&lt;/p>
+&lt;p>We’re excited to invite you to join us on Thursday, August 21st for a community evening filled with great talks, engaging discussions, and good company.&lt;/p>
+&lt;p>If your plans change, please remember to cancel your ticket so that someone on the wait list can grab your spot.&lt;/p>
+&lt;h2 id="schedule">Schedule&lt;/h2>
+&lt;p>17:30 - Doors open
+18:00 - Word by HelSec
+18:10 - Helena Harju - Threat and Risk Modeling as a Self-Service (presentation in Finnish)
+19:00 - Q&amp;amp;A, networking
+19:15 - Ville Vainikka - Zero Trust Implementation in Large Organization
+20:00 - Q&amp;amp;A, networking
+20:30 - Antti Kurittu - Incident Response Playbooks at Konecranes
+22:00 - Event ends&lt;/p>
+&lt;h2 id="speaker-bio">Speaker bio:&lt;/h2>
+&lt;p>🔷 &lt;strong>Helena Harju&lt;/strong> - is a Kuopio-based ICT engineer specialized in testing, cybersecurity, and ethical hacking, with a background in social sciences and over 20 years of experience in risk management. She developed a self-service threat and risk modeling method for her thesis, holds the ISC2 CC certification, actively trains on TryHackMe, and serves on the board of KuoSec ry.&lt;/p>
+&lt;p>🔷 &lt;strong>Ville Vainikka&lt;/strong> - is a Cybersecurity Architect with 15 years of fond memories of Finnish government computers and systems working perfectly. Currently networking and identity in the cloud, before that actual wires and computers in caves and the like.&lt;/p>
+&lt;p>🔷 &lt;strong>Antti Kurittu&lt;/strong> - is a legendary speaker for HelSec who delivers insightful &amp;amp; entertaining talks every time.&lt;/p>
+&lt;h2 id="streaming">Streaming&lt;/h2>
+&lt;p>Meetup will be streamed on Twitch: &lt;a href="https://twitch.tv/helsec">https://twitch.tv/helsec&lt;/a>&lt;/p>
+&lt;p>&lt;strong>!!! ATTENTION !!!&lt;/strong>&lt;br>
+&lt;strong>Registration is done through HelSec ticketing system, found &lt;a href="https://events.helsec.fi/helsec/b38ej/">here&lt;/a>.&lt;/strong>&lt;br>
+&lt;strong>Helsec members will receive the member-registration link by e-mail&lt;/strong>&lt;br>
+&lt;strong>Registration opens on Monday 21.7 at 13:00&lt;/strong>&lt;/p></description></item><item><title>HelSec Summer 2025 Park Hangout</title><link>https://helsec.fi/events/2025-07-12_helsec_summer_2025_park_hangout/</link><pubDate>Sat, 12 Jul 2025 17:00:00 +0200</pubDate><guid>https://helsec.fi/events/2025-07-12_helsec_summer_2025_park_hangout/</guid><description>&lt;p>Welcome to the traditional HelSec Summer park hangout!&lt;/p>
+&lt;p>&lt;strong>WEATHER UPDATE: CURRENTLY IT LOOKS THAT IT WILL RAIN AROUND 18-19. IN THAT CASE WE WILL MEET AT THE PARK AND MOVE TO A BAR THAT WILL BE ANNOUNCED ON HELSEC INSTAGRAM STORY&lt;/strong>&lt;/p>
+&lt;p>As usual during summer, we are having a more unformal meetup.
+It&amp;rsquo;s more about getting together, mingling and having a good time.
+Event is Bring Your Own Beverages this time.&lt;/p>
+&lt;p>17:00 - Gathering in Ruttopuisto (Old Chuch Park) &amp;amp; seeing where it goes&lt;/p>
+&lt;p>❗️ If the weather looks bad, we might either cancel the meetup or move it to another location indoors&lt;/p></description></item><item><title>HelSec June 2025 Meetup</title><link>https://helsec.fi/events/2025-06-12_helsec_june_meetup/</link><pubDate>Thu, 12 Jun 2025 17:30:00 +0200</pubDate><guid>https://helsec.fi/events/2025-06-12_helsec_june_meetup/</guid><description>&lt;p>Welcome to the HelSec June meetup!&lt;/p>
 &lt;p>This event is powered by &lt;strong>Reformo Networks&lt;/strong>.&lt;/p>
 &lt;p>We’re excited to invite you to join us on &lt;strong>Thursday, June 12th&lt;/strong> for a community evening filled with great talks, interesting discussions and good company. We have three speakers from the industry: &lt;strong>Mikael Nilsson&lt;/strong>, &lt;strong>Ben Gladnikoff&lt;/strong> and &lt;strong>Niko Kivelä&lt;/strong>.&lt;/p>
 &lt;p>If your plans change, please remember to cancel your ticket so that someone on the wait list can grab your spot.&lt;/p>
@@ -242,60 +291,4 @@ The speech is also a farewell to the running of the organisation, at least for t
 🔷 Joakim Tauren - CISO, Small Business Segment, Visma. Dad, fly fisher, hobby wood worker, aspiring communicator. Helping companies in Visma to make better security decisions every day.&lt;br>
 🔷 Shamil Afilov - TurkuSec/PerSec Camp/CitySec, DisObey volunteer, Threat Intel at Nixu, Dad of twin rascals&lt;/p>
 &lt;p>&lt;strong>Streaming:&lt;/strong>&lt;br>
-Meetup will be streamed on Twitch: [&lt;a href="https://twitch.tv/helsec%5D(https://events.helsec.fi/redirect/?url=https%3A//twitch.tv/helsec%3AvkLheGTncgEMoRFAdQ81UFqvEiYGehvkzxo9QM6MUQo">https://twitch.tv/helsec](https://events.helsec.fi/redirect/?url=https%3A//twitch.tv/helsec%3AvkLheGTncgEMoRFAdQ81UFqvEiYGehvkzxo9QM6MUQo&lt;/a>)&lt;/p></description></item><item><title>HelSec December 2023 Meetup</title><link>https://helsec.fi/events/2023-12-14_helsec_december_2023_meetup/</link><pubDate>Thu, 14 Dec 2023 17:30:00 +0200</pubDate><guid>https://helsec.fi/events/2023-12-14_helsec_december_2023_meetup/</guid><description>&lt;p>&lt;strong>Welcome to the HelSec December 2023 Meetup!&lt;/strong>&lt;/p>
-&lt;p>Powered by &lt;strong>Binalyze&lt;/strong>&lt;/p>
-&lt;p>This time we&amp;rsquo;re going to focus on the hottest topic around - &lt;strong>AI.&lt;/strong>&lt;/p>
-&lt;p>&lt;strong>17:30&lt;/strong> - Doors open&lt;br>
-&lt;strong>18:00&lt;/strong> - Word by HelSec &amp;amp; Binalyze&lt;br>
-&lt;strong>18:10&lt;/strong> - LLM Wizardry in a Muggle World of Security Consultancy - Svitlana Chaplinska&lt;br>
-&lt;strong>19:00&lt;/strong> - Q&amp;amp;A, networking&lt;br>
-&lt;strong>19:20&lt;/strong> - AI Governance - Ilja Ikonen&lt;br>
-&lt;strong>20:00&lt;/strong> - Q&amp;amp;A, networking&lt;br>
-&lt;strong>22:00 -&lt;/strong> Event ends&lt;/p>
-&lt;p>This meetup will be streamed on Twitch: &lt;a href="https://twitch.tv/helsec">https://twitch.tv/helsec&lt;/a>&lt;/p>
-&lt;p>Speaker bios:&lt;/p>
-&lt;p>🔷 &lt;strong>Svitlana Chaplinska&lt;/strong> is an information security consultant at Fraktal who is committed to making security accessible and understandable for everyone. With a keen interest in the evolving role of AI in cybersecurity, she leverages her creative perspective and enthusiasm to drive positive change in the industry. Outside of her professional pursuits, she dedicates time to volunteer work, savoring coffee and traveling.&lt;/p>
-&lt;p>🔷 &lt;strong>Ilja Ikonen&lt;/strong> is CISO of &lt;a href="https://verkkokauppa.com/">Verkkokauppa.com&lt;/a> who is also responsible for AI governance, risk management and business continuity. Last month Ilja has been working the AI governance for &lt;a href="https://verkkokauppa.com/">Verkkokauppa.com&lt;/a>, which will help the implementation of AI capabilites in the future and be compliant with the upcoming AI regulations.&lt;/p></description></item><item><title>HelSec November 2023 Meetup</title><link>https://helsec.fi/events/2023-11-29_helsec_november_2023_meetup/</link><pubDate>Wed, 29 Nov 2023 17:30:00 +0200</pubDate><guid>https://helsec.fi/events/2023-11-29_helsec_november_2023_meetup/</guid><description>&lt;p>Welcome to the HelSec November 2023 Meetup!&lt;/p>
-&lt;p>Powered by &lt;strong>2NS.&lt;/strong>&lt;/p>
-&lt;p>Note that this event is held on &lt;strong>Wednesday&lt;/strong> due to space reservations.&lt;/p>
-&lt;p>If you&amp;rsquo;re interested in having a flashtalk, please mail [masked].&lt;/p>
-&lt;p>&lt;strong>17:30&lt;/strong> - Doors open&lt;br>
-&lt;strong>18:00&lt;/strong> - Word by HelSec &amp;amp; 2NS&lt;br>
-&lt;strong>18:10&lt;/strong> - TETRA public safety radio &amp;amp; Infosec update - Hannu Aronson&lt;br>
-&lt;strong>19:00&lt;/strong> - Q&amp;amp;A, networking&lt;br>
-&lt;strong>19:15&lt;/strong> - Are there too many vulnerabilities for an ordinary developer to handle? -Mika Tapanainen&lt;br>
-&lt;strong>20:00&lt;/strong> - Q&amp;amp;A, networking&lt;br>
-&lt;strong>20:30&lt;/strong> - Opportunity for Flashtalks!&lt;br>
-&lt;strong>22:00 -&lt;/strong> Event ends&lt;/p>
-&lt;p>This meetup will be streamed on Twitch: &lt;a href="https://twitch.tv/helsec">https://twitch.tv/helsec&lt;/a>&lt;/p>
-&lt;p>Speaker bios:&lt;/p>
-&lt;p>🔷 Hannu Aronsson - CTO, Portalify Ltd&lt;br>
-Hannu works on data and apps for first responders, from situational awareness to information access, on radio and broadband mobile networks. He also has experience from early internet, online payments, product development, teaching, and standardization.&lt;br>
-Hannu’s hobbies include internet advocacy at &lt;a href="http://iki.fi/">iki.fi&lt;/a>, travel, Pokemon Go, sci-fi and model trains.&lt;/p>
-&lt;p>🔷 Mika Tapanainen - Co-Founder &amp;amp; Full Stack Developer, Fonzit Oy&lt;br>
-Mika is an experienced full stack developer and he mostly likes to code with Java and Typescript (Next.js, React). He is truly interested in test automation, UX and cyber security. Mika enjoys spending time in nature, for example he is a course setter in orienteering events.&lt;/p></description></item><item><title>HelSec October 2023 Meetup</title><link>https://helsec.fi/events/2023-10-26_helsec_october_2023_meetup/</link><pubDate>Thu, 26 Oct 2023 17:30:00 +0300</pubDate><guid>https://helsec.fi/events/2023-10-26_helsec_october_2023_meetup/</guid><description>&lt;p>Welcome to the HelSec October 2023 Meetup!&lt;/p>
-&lt;p>Powered by Nixu.&lt;/p>
-&lt;p>The event is restricted from under 18 year olds.&lt;br>
-Food &amp;amp; beverages will be available.&lt;/p>
-&lt;p>❗ Member exclusive registration is open &lt;strong>5 - 12.10&lt;/strong> ❗&lt;br>
-❗ Registration for all will open &lt;strong>12.10 at 17:30&lt;/strong> ❗&lt;/p>
-&lt;p>We will reserve 70 spots for members &amp;amp; remaining 30 will be up for open registration.&lt;/p>
-&lt;p>Preliminary schedule for the day:&lt;/p>
-&lt;p>&lt;strong>17:30&lt;/strong> - Doors open&lt;br>
-&lt;strong>18:00&lt;/strong> - Word by HelSec&lt;br>
-&lt;strong>18:10&lt;/strong> - Securing 5G networks with Federated Learning and GANs by Rayaan Hassan&lt;br>
-&lt;strong>19:00&lt;/strong> - Q&amp;amp;A, networking&lt;br>
-&lt;strong>19:15&lt;/strong> - What the BEC II - Invoice fraud and how it is done in the corporate world. by Elias Alanko&lt;br>
-&lt;strong>20:00&lt;/strong> - Q&amp;amp;A, networking&lt;br>
-&lt;strong>20:15&lt;/strong> - Espionage and the human factor by Carolina Angelis&lt;br>
-&lt;strong>21:00&lt;/strong> - Q&amp;amp;A, networking&lt;br>
-&lt;strong>22:00 -&lt;/strong> Event ends&lt;/p>
-&lt;p>This meetup will be streamed on Twitch: &lt;a href="https://twitch.tv/helsec">https://twitch.tv/helsec&lt;/a>&lt;/p>
-&lt;p>Speaker bios:&lt;/p>
-&lt;p>🔷 Rayyan Hassan : Security Consultant at Fraktal&lt;br>
-An electrical engineer turned cybersecurity specialist. It was my interest in IoT security that first brought me to cybersecurity and I haven&amp;rsquo;t looked back since. In this vast domain, my interests are particularly geared towards AI research, and its effect on the current security domain. In my free time I enjoy socialising with friends, reading novels and exploring different ways of combining my engineering experience with cybersecurity.&lt;/p>
-&lt;p>🔷 Elias Alanko: Currently CISO at 3stepIT.&lt;br>
-Past in the Finance industry in various security, and fraud prevention roles since early 2010s.In addition, advisory roles at Europol’s EC3 and European Commission. Expert witness in fraud related trials. Fraud prevention enthusiast, especially in the areas of online banking and corporate fraud. Master of Finance by education, Behavioural Finance to be exact, so somewhat of an outlier in the Infosec community.&lt;/p>
-&lt;p>🔷 Carolina Angelis: Security Advisor at Truesec&lt;br>
-With almost 20 years in the Swedish military intelligence service, Carolina Angelis has unique insight into the methods of espionage and how to counteract it.&lt;br>
-As a senior advisor at Truesec she helps organizations to prevent and avert insider threats and to create awareness. She is one of Sweden’s most recognized experts when it comes to espionage and human intelligence, and is frequently interviewed on national TV, podcasts, and radio. Carolina is also a published author in the spy fiction genre.&lt;/p></description></item></channel></rss>
+Meetup will be streamed on Twitch: [&lt;a href="https://twitch.tv/helsec%5D(https://events.helsec.fi/redirect/?url=https%3A//twitch.tv/helsec%3AvkLheGTncgEMoRFAdQ81UFqvEiYGehvkzxo9QM6MUQo">https://twitch.tv/helsec](https://events.helsec.fi/redirect/?url=https%3A//twitch.tv/helsec%3AvkLheGTncgEMoRFAdQ81UFqvEiYGehvkzxo9QM6MUQo&lt;/a>)&lt;/p></description></item></channel></rss>
