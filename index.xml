@@ -1,4 +1,34 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>HelSec Ry</title><link>https://helsec.fi/</link><description>Recent HelSec Ry events</description><language>en-us</language><atom:link href="https://helsec.fi/index.xml" rel="self" type="application/rss+xml"/><item><title>HelSec September 2025 Meetup</title><link>https://helsec.fi/events/2025-09-25_helsec_september_meetup/</link><pubDate>Thu, 25 Sep 2025 17:30:00 +0200</pubDate><guid>https://helsec.fi/events/2025-09-25_helsec_september_meetup/</guid><description>&lt;p>Welcome to the HelSec September meetup!&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>HelSec Ry</title><link>https://helsec.fi/</link><description>Recent HelSec Ry events</description><language>en-us</language><atom:link href="https://helsec.fi/index.xml" rel="self" type="application/rss+xml"/><item><title>HelSec January 2026 Meetup</title><link>https://helsec.fi/events/2026-01-16_helsec_january_meetup/</link><pubDate>Fri, 16 Jan 2026 17:30:00 +0200</pubDate><guid>https://helsec.fi/events/2026-01-16_helsec_january_meetup/</guid><description>&lt;p>More info coming later&lt;/p></description></item><item><title>CitySec Festive Porridge party a.k.a CFP</title><link>https://helsec.fi/events/2025-12-12_citysec_festive_party/</link><pubDate>Fri, 12 Dec 2025 17:30:00 +0200</pubDate><guid>https://helsec.fi/events/2025-12-12_citysec_festive_party/</guid><description>&lt;p>Big Christmas party with other CitySecs around the country. More info coming later.&lt;/p>
+&lt;p>More info coming later&lt;/p></description></item><item><title>HelSec November 2025 Meetup</title><link>https://helsec.fi/events/2025-11-20_helsec_november_meetup/</link><pubDate>Thu, 20 Nov 2025 17:30:00 +0200</pubDate><guid>https://helsec.fi/events/2025-11-20_helsec_november_meetup/</guid><description>&lt;p>More info coming later&lt;/p></description></item><item><title>HelSec October 2025 Meetup</title><link>https://helsec.fi/events/2025-10-30_helsec_october_meetup/</link><pubDate>Thu, 30 Oct 2025 17:30:00 +0200</pubDate><guid>https://helsec.fi/events/2025-10-30_helsec_october_meetup/</guid><description>&lt;p>Welcome to the HelSec October meetup!&lt;/p>
+&lt;p>This event is powered by &lt;strong>2NS&lt;/strong>.&lt;/p>
+&lt;p>We’re excited to invite you to join us on Thursday, October 30th for a community evening filled with great talks, engaging discussions, and good company. We have three inspiring speakers from the industry: &lt;strong>Svitlana Chaplinska&lt;/strong> &amp;amp; &lt;strong>Juho Syrjänen&lt;/strong> and &lt;strong>Antti Lehvonen&lt;/strong>.&lt;/p>
+&lt;p>If your plans change, please remember to cancel your ticket so that someone on the wait list can grab your spot.&lt;/p>
+&lt;h2 id="flashtalks">Flashtalks!&lt;/h2>
+&lt;p>As part of the program, we’ll also have flashtalks, so if you’re joining us in the October meetup and have a 5-10 minute flashtalk, please submit your idea to &lt;a href="mailto:contact@helsec.fi">contact@helsec.fi&lt;/a>!&lt;/p>
+&lt;h2 id="schedule">Schedule&lt;/h2>
+&lt;p>17:30 – Doors open
+18:00 - Word by HelSec
+18:10 - Antti Lehvonen - Same but different - bit about what common and what is not in IT and OT
+19:00 - Q&amp;amp;A, networking
+19:15 - Svitlana Chaplinska and Juho Syrjänen - Paving the Golden Path: Champions, Collaboration, and the Platform Behind It
+20:00 - Q&amp;amp;A, networking
+20:30 - Flash talks!
+22:00 - Event ends&lt;/p>
+&lt;h2 id="speaker-bio">Speaker bio:&lt;/h2>
+&lt;p>🔷 &lt;strong>Svitlana Chaplinska&lt;/strong> - Svitlana is a security engineer working at Metacore. Her expertise spans across technical and information security management domains. In her work Svitlana strives to bring a positive change within the industry, making security a fun challenge to work on, rather than a constrain. Fueled by a passion for information security, she volunteers and participates in community-driven initiatives, such as HelSec, Women4Cyber Finland, Disobey. These efforts are geared towards creating an inclusive and empowering cybersecurity future.&lt;/p>
+&lt;p>🔷 &lt;strong>Juho Syrjänen&lt;/strong> - An infrastructure and platform engineer with over 10 years of experience spanning datacenters, DevOps consulting, and platform development. He’s worked with Kubernetes since version 1.13 and has spent the past several years helping teams tame complex systems and build resilient platforms. Currently, Juho is part of the platform engineering team at Metacore Games, where he’s building an internal developer platform that supports mobile games played by millions. He’s passionate about solving real-world infrastructure challenges—especially those that don’t fit the “cloud-native” mold—and about creating systems that reduce operational burden without compromising developer experience.&lt;/p>
+&lt;p>🔷 &lt;strong>Antti Lehvonen&lt;/strong> - Antti is a security professional who has collected a broad view of IT in general and a bit of OT from a security point of view. Nowadays, he work as a cybersecurity architect.&lt;/p>
+&lt;h2 id="streaming">Streaming&lt;/h2>
+&lt;p>Meetup will be streamed on Twitch: &lt;a href="https://twitch.tv/helsec">https://twitch.tv/helsec&lt;/a>&lt;/p>
+&lt;p>&lt;strong>!!! ATTENTION !!!&lt;/strong>&lt;br>
+&lt;strong>Registration is done through HelSec ticketing system, found &lt;a href="https://events.helsec.fi/helsec/xysce/">here&lt;/a>.&lt;/strong>&lt;/p></description></item><item><title>HelSec Workshop - Ghidra workshop; Structures, C++, and a dash of scripting!</title><link>https://helsec.fi/events/2025-10-11_helsec_ghidra_workshop/</link><pubDate>Sat, 11 Oct 2025 12:00:00 +0200</pubDate><guid>https://helsec.fi/events/2025-10-11_helsec_ghidra_workshop/</guid><description>&lt;p>Welcome to the HelSec Ghidra workshop happening on &lt;strong>Saturday, October 11th&lt;/strong>.&lt;/p>
+&lt;p>This is a &lt;strong>members-only&lt;/strong>, hands-on workshop led by &lt;strong>Vesa-Pekka Palmu&lt;/strong> - a software developer and a passionate hobbyist hardware hacker and CTF challenge creator who will once again be your instructor.&lt;/p>
+&lt;p>This is a workshop aimed for people that already have the very basic understanding of Ghidra. We will be looking at real world x86 firmware and howto deal with C++ code, create date structures and the very basics of Ghidra scripting. Workshop schedule&lt;/p>
+&lt;p>&lt;strong>When:&lt;/strong> Saturday, 11.10.2025 Time: 12:00–19:00 (with a lunch break; lunch is at participants’ own expense)&lt;/p>
+&lt;p>&lt;strong>Where:&lt;/strong> Secret location, Helsinki Tickets HelSec members, check your inbox! Your registration link should already be there waiting for you.&lt;/p>
+&lt;p>&lt;strong>Registration will start today, October 3rd at 13:00&lt;/strong>. Not a member yet?
+We’ve got more events coming up this autumn: our next HelSec meetup is on October 30th, with some non-member tickets up for grabs as well.&lt;/p>
+&lt;p>&lt;strong>Trainer bio:&lt;/strong> Vesa-Pekka Palmu is a software developer and a passionate hobbyist hardware hacker and CTF challenge creator. A special thanks to Vesa-Pekka for once again sharing your knowledge with the HelSec community! Streaming This workshop will not be streamed on our Twitch channel.&lt;/p></description></item><item><title>HelSec September 2025 Meetup</title><link>https://helsec.fi/events/2025-09-25_helsec_september_meetup/</link><pubDate>Thu, 25 Sep 2025 17:30:00 +0200</pubDate><guid>https://helsec.fi/events/2025-09-25_helsec_september_meetup/</guid><description>&lt;p>Welcome to the HelSec September meetup!&lt;/p>
 &lt;p>This event is powered by &lt;strong>WithSecure&lt;/strong>.&lt;/p>
 &lt;p>&lt;em>&lt;strong>ATTENTION - UNFORTUNATELY THIS MONTH&amp;rsquo;S EVENT IS ALREADY FULL AS WE ARE USING OUR OWN TICKETING SYSTEM. INFORMATION WAS POSTED IN OUR SOCIAL MEDIA CHANNELS. HELSEC BOARD IS SORRY FOR NOT POSTING THE EVENT FOR MEEETUP MEMBERS EARLIER AND WE WILL MAKE SURE TO DO BETTER IN THE FUTURE.&lt;/strong>&lt;/em>&lt;/p>
 &lt;p>We’re excited to invite you to the HelSec September meetup on Thursday, September 25th!
@@ -176,119 +206,4 @@ Commission and the EU parliament. Today Jos will talk about how current regulati
 It&amp;rsquo;s more about getting together, mingling and having a good time.&lt;br>
 There will be some beverages available, but it&amp;rsquo;s good to bring your own to make sure you keep hydrated.&lt;/p>
 &lt;p>17:30 - Gathering in Ruttopuisto (Old Chuch Park)&lt;/p>
-&lt;p>❗️ If the weather looks bad, we might either cancel the meetup or move it to another location indoors.&lt;/p></description></item><item><title>W4CFI x HelSec x WithSecure - Community Event</title><link>https://helsec.fi/events/2024-05-29_w4cfi_x_helsec_x_withsecure__community_event/</link><pubDate>Wed, 29 May 2024 17:30:00 +0300</pubDate><guid>https://helsec.fi/events/2024-05-29_w4cfi_x_helsec_x_withsecure__community_event/</guid><description>&lt;p>Welcome to the W4CFI &amp;amp; HelSec community event powered by W/ SPHERE&lt;/p>
-&lt;p>Registration for the event will be done through Pretix.&lt;br>
-&lt;a href="https://events.helsec.fi/helsec/maynon/">Register here&lt;/a>&lt;/p>
-&lt;p>We will have a non-member capacity of 100 people.&lt;br>
-Women4Cyber Finland has their own quota, you only need to register to one event.&lt;/p>
-&lt;p>&lt;strong>Agenda&lt;/strong>&lt;br>
-&lt;strong>17:30&lt;/strong> Doors open&lt;br>
-&lt;strong>18:30&lt;/strong> Welcome words by W4CFI &amp;amp; HelSec&lt;br>
-&lt;strong>18:40&lt;/strong> Psychological Safety and Diversity in Cybersecurity - Noora Hammar&lt;br>
-&lt;strong>19:00&lt;/strong> Q&amp;amp;A and Networking&lt;br>
-&lt;strong>19:15&lt;/strong> Future-Proofing: Building Defenses for the Decades to Come - Christine Bejerasco&lt;br>
-&lt;strong>19:45&lt;/strong> Q&amp;amp;A and Networking&lt;br>
-&lt;strong>20:00&lt;/strong> Si Res Coniuncta Est, Vulnerabilis Est - Mikko Hyppönen&lt;br>
-&lt;strong>20:30&lt;/strong> Q&amp;amp;A and Networking&lt;br>
-&lt;strong>21:00&lt;/strong> Event Ends&lt;/p>
-&lt;p>&lt;strong>Speakers&lt;/strong>&lt;/p>
-&lt;p>&lt;strong>Noora Hammar&lt;/strong>&lt;br>
-&lt;em>Founder Women4Cyber Finland &amp;amp; Director, Head of Security Assurance, Volvo Group&lt;/em>&lt;br>
-Noora is an experienced cybersecurity professional and a leader with diverse background in various cyber and information security roles. Noora leads the global Security Assurance function at Volvo Group and is also the founder and Chapter President of Women4Cyber Finland, a nonprofit association whose mission is to support women in Finland to find employment in the field of cybersecurity, thus increasing diversity and equalizing the existing gender imbalance. She strongly believes in the power of diversity and psychological safety and wants to help people succeed by utilizing their own strengths.&lt;/p>
-&lt;p>&lt;strong>Christine Bejerasco&lt;/strong>&lt;br>
-&lt;em>Chief Information Security Officer, WithSecure™&lt;/em>&lt;br>
-Christine is Chief Information Security Officer at WithSecure™, previously holding the title of CTO, where she looked at the intersection of threats, technologies and user behaviour to build future-proof cyber security solutions.&lt;br>
-Having spent two decades in the cyber security industry, Christine is highly respected and speaks regularly at peer-to-peer and business events. With the last couple of years being unprecedented for security breaches, Christine has been sharing her in-depth knowledge with audiences on various areas that highlight some of the threats encountered in cyber-attacks during this period, especially those affecting mobile devices, software, supply chains and data hacks.&lt;br>
-With our world transforming digitally and becoming even more reliant on virtual environments, that are increasingly powered by AI and ML models, it is key to stay informed and protected.&lt;/p>
-&lt;p>&lt;strong>Mikko Hyppönen&lt;/strong>&lt;br>
-&lt;em>Chief Research Officer, WithSecure™&lt;/em>&lt;br>
-Mikko Hypponen is a worldwide authority on computer security and the Chief Research Officer of WithSecure. He has written on his research for the New York Times, Wired and Scientific American and lectured at the universities of Oxford, Stanford and Cambridge. Hypponen has been listed on Foreign Policy Magazine&amp;rsquo;s Top 100 Global Thinkers list. He&amp;rsquo;s also the Curator for the Malware Museum at the Internet Archive.&lt;/p>
-&lt;p>&lt;strong>Photos and social media&lt;/strong>&lt;br>
-Please note that pictures will be taken throughout the event and shared in our social media channels.&lt;/p>
-&lt;p>Warm welcome!&lt;/p></description></item><item><title>HelSec April 2024 Meetup</title><link>https://helsec.fi/events/2024-04-25_helsec_april_2024_meetup/</link><pubDate>Thu, 25 Apr 2024 17:30:00 +0300</pubDate><guid>https://helsec.fi/events/2024-04-25_helsec_april_2024_meetup/</guid><description>&lt;p>Welcome to the HelSec April 2024 Meetup!&lt;/p>
-&lt;p>Powered by &lt;strong>Reformo Networks.&lt;/strong>&lt;/p>
-&lt;p>Registration for the event will be done through Pretix and &lt;strong>opens on Thursday 4.4 at 17:00.&lt;/strong>&lt;/p>
-&lt;p>&lt;strong>Register &lt;a href="https://events.helsec.fi/helsec/apr2024non/">here&lt;/a>.&lt;/strong>&lt;/p>
-&lt;p>We have non-member capacity of 40 people and waiting list is available.&lt;/p>
-&lt;p>Flashtalks are back!&lt;br>
-If you&amp;rsquo;re interested in having a flashtalk of max 15-20 mins, please mail [masked].&lt;/p>
-&lt;p>&lt;strong>17:30&lt;/strong> - Doors open&lt;br>
-&lt;strong>18:00&lt;/strong> - Word by HelSec&lt;br>
-&lt;strong>18:10&lt;/strong> - Sami Vellonen - InfoSec in Healthcare today and tomorrow&lt;br>
-&lt;strong>19:00&lt;/strong> - Q&amp;amp;A, networking&lt;br>
-&lt;strong>19:15&lt;/strong> - Mikael Nilsson - Prowling your cloud landscape - How CSPM can help to secure your cloud and avoid configuration disasters&lt;br>
-&lt;strong>20:00&lt;/strong> - Q&amp;amp;A, networking&lt;br>
-&lt;strong>20:30&lt;/strong> - Opportunity for Flashtalks!&lt;br>
-&lt;strong>22:00 -&lt;/strong> Event ends&lt;/p>
-&lt;p>This meetup will be streamed on Twitch: &lt;a href="https://twitch.tv/helsec">https://twitch.tv/helsec&lt;/a>&lt;/p>
-&lt;p>Speaker bios:&lt;/p>
-&lt;p>🔷Sami Vellonen - is the Group Chief Information Security Officer (CISO) at Terveystalo, the largest private healthcare service company in Finland. He is responsible for ensuring the information security of millons of Terveystalo customers and 16000 emplyees in Finland and Sweden. Vellonen has over 25 years experience in the field of engineering and information security, both in the public and private sectors.&lt;br>
- &lt;/p>
-&lt;p>🔷Mikael Nilsson works as the Product Security Lead for Customer Intelligence R&amp;amp;D at SAS Institute Inc. He collaborates with various teams within SAS to help design &amp;amp; implement secure SDLC practices to meet the ever evolving threat landscape and also works with customers to ensure SAS security practices align with customer expectations. His main focus is around the security &amp;amp; privacy aspects of SAS Customer Intelligence 360, a global multi-tenant marketing Software-as-a-Service solution. Outside of work he is a serious casual video gamer, likes Japanese cars &amp;amp; is known to sample different beers wherever he may roam.&lt;/p></description></item><item><title>HelSec March 2024 Meetup</title><link>https://helsec.fi/events/2024-03-21_helsec_march_2024_meetup/</link><pubDate>Thu, 21 Mar 2024 17:30:00 +0200</pubDate><guid>https://helsec.fi/events/2024-03-21_helsec_march_2024_meetup/</guid><description>&lt;p>Welcome to the HelSec March 2024 Meetup!&lt;/p>
-&lt;p>Powered by &lt;strong>2NS.&lt;/strong>&lt;/p>
-&lt;p>Registration for the event will be done through Pretix and &lt;strong>opens on Thursday 29.2 at 17:00.&lt;/strong>&lt;br>
-We have non-member capacity of 40 people and waiting list is available.&lt;br>
-Register &lt;a href="https://events.helsec.fi/helsec/mar2024non/">here&lt;/a>.&lt;/p>
-&lt;p>Flashtalks are back!&lt;br>
-If you&amp;rsquo;re interested in having a flashtalk of max 15-20 mins, please mail [masked].&lt;/p>
-&lt;p>&lt;strong>17:30&lt;/strong> - Doors open&lt;br>
-&lt;strong>18:00&lt;/strong> - Word by HelSec&lt;br>
-&lt;strong>18:10&lt;/strong> - Approaching GenAI with Security in mind - Satu Korhonen&lt;br>
-&lt;strong>19:00&lt;/strong> - Q&amp;amp;A, networking&lt;br>
-&lt;strong>19:15&lt;/strong> - Resilience and Situational Awareness through Data Integrity - So how do you know when you are being lied to? - Tuuli Siiskonen&lt;br>
-&lt;strong>20:00&lt;/strong> - Q&amp;amp;A, networking&lt;br>
-&lt;strong>20:30&lt;/strong> - Opportunity for Flashtalks!&lt;br>
-&lt;strong>22:00 -&lt;/strong> Event ends&lt;/p>
-&lt;p>This meetup will be streamed on Twitch: &lt;a href="https://twitch.tv/helsec">https://twitch.tv/helsec&lt;/a>&lt;/p>
-&lt;p>Speaker bios:&lt;/p>
-&lt;p>🔷Satu Korhonen is a Machine Learning Engineer at Solita in Finland with a mission to combine developers and business people in creating safe and robust machine learning solutions that bring long-term business value. She thrives with complicated problems with a plethora of necessary viewpoints to fill business needs while taking end-users into account to create AI solutions that are safe and secure for everyone.&lt;/p>
-&lt;p>🔷 Tuuli Siiskonen is an Information Security professional, agile security coach, technology enthusiast with human interface. She does red teaming, penetration testing, security incident response, machine learning and software security in cloud, IoT and ICT. She wakes up in the morning to solve problems.&lt;/p></description></item><item><title>HelSec Workshop: Introduction to Ghidra &amp; Firmware Reverse Engineering</title><link>https://helsec.fi/events/2024-02-25_helsec_workshop_introduction_to_ghidra__firmware_reverse_engineering/</link><pubDate>Sun, 25 Feb 2024 12:00:00 +0200</pubDate><guid>https://helsec.fi/events/2024-02-25_helsec_workshop_introduction_to_ghidra__firmware_reverse_engineering/</guid><description>&lt;p>&lt;strong>**THIS IS THE RE-ORGANIZING OF THE POSTPONED WORKSHOP FROM OCTOBER. FIRST OPTION WILL BE GIVEN TO THE PARTICIPANTS TO EARLIER WORKSHOP. SLOTS WILL BE OPENED IN CASE THERE ARE CANCELATIONS.**&lt;/strong>&lt;/p>
-&lt;p>&lt;strong>Introduction to Ghidra and Firmware Reverse Engineering.&lt;/strong>&lt;/p>
-&lt;p>This is an entry level workshop that serves as an introduction to ghidra in the context of hardware firmware reverse engineering. We will be using a multi timezone clock as the case study. The clock uses a MC-48 series microcontroller from the seventies that is quite simple and easier to understand than modern processors.&lt;/p>
-&lt;p>Reading the first 40 pages of [&lt;a href="https://devsaurus.github.io/mcs-48/mcs-48.pdf%5D(https://devsaurus.github.io/mcs-48/mcs-48.pdf">https://devsaurus.github.io/mcs-48/mcs-48.pdf](https://devsaurus.github.io/mcs-48/mcs-48.pdf&lt;/a>) or the start of the MCS-48 users manual should give enough starting information to understand the system. The MCS-48 Users manual in particular has a really good section about how a (simple) processor works.&lt;/p>
-&lt;p>&lt;strong>Please install ghidra ([&lt;a href="https://ghidra-sre.org/%5D(https://ghidra-sre.org/">https://ghidra-sre.org/](https://ghidra-sre.org/&lt;/a>)) beforehand and make sure it runs on your system.&lt;/strong>&lt;/p>
-&lt;p>For OSX users it is recommended to use &amp;lsquo;brew&amp;rsquo; for installing and also install &amp;lsquo;gradle&amp;rsquo; and then in console go to homebrew_base/Caskroom/ghidra//ghidra-/Ghidra/&amp;rsquo; and execute &amp;lsquo;gradle buildNatives&amp;rsquo; to get locally signed versions of the native extensions.&lt;/p>
-&lt;p>&lt;strong>The outline of the workshop will be:&lt;/strong>&lt;/p>
-&lt;ol>
-&lt;li>&lt;strong>A short presentation on the hardware&lt;/strong>&lt;/li>
-&lt;li>&lt;strong>Guided setup of the ghidra project&lt;/strong>&lt;/li>
-&lt;li>&lt;strong>Guided tour of the main ghidra features&lt;/strong>&lt;/li>
-&lt;li>&lt;strong>Reverse engineering the firmware in small groups&lt;/strong>&lt;/li>
-&lt;/ol>
-&lt;ul>
-&lt;li>&lt;strong>Few hints will be provided as the workshop progresses&lt;/strong>&lt;/li>
-&lt;/ul>
-&lt;ol start="5">
-&lt;li>&lt;strong>At the end we will go through the program and what it does&lt;/strong>&lt;/li>
-&lt;/ol>
-&lt;p>The event will be hosted at Elisa premises in Pasila.&lt;br>
-Participants will need to provide their full name for Elisa&amp;rsquo;s visitor registration.&lt;/p>
-&lt;p>Trainer bio:&lt;br>
-🔷 Vesa-Pekka Palmu is a software developer and a hobbyist hardware hacker. He has experience in reverse engineering and resurrecting or repurposing many obsolete devices or protocols.&lt;/p></description></item><item><title>HelSec 5 Year Anniversary Meetup</title><link>https://helsec.fi/events/2024-01-19_helsec_5_year_anniversary_meetup/</link><pubDate>Fri, 19 Jan 2024 17:30:00 +0200</pubDate><guid>https://helsec.fi/events/2024-01-19_helsec_5_year_anniversary_meetup/</guid><description>&lt;p>Welcome to the HelSec`s 5th Anniversary Meetup!&lt;/p>
-&lt;p>Powered by the Community!&lt;/p>
-&lt;p>Beverages will be provided on site by Olarin Panimo.&lt;br>
-HelSec will offer the first round on the house.&lt;/p>
-&lt;p>&lt;strong>Sign-ups:&lt;/strong>&lt;br>
-We are using our own ticketing system in order to make the entry go smoother. You will get a ticket with a QR Code that will be scanned at the door.&lt;br>
-The sign-ups will open &lt;strong>3.1 at 17:00&lt;/strong> and can be found at:&lt;br>
-&lt;strong>[&lt;a href="https://events.helsec.fi/helsec/mqzbw/%5D(https://events.helsec.fi/helsec/mqzbw/">https://events.helsec.fi/helsec/mqzbw/](https://events.helsec.fi/helsec/mqzbw/&lt;/a>)&lt;/strong>&lt;a href="https://events.helsec.fi/helsec/mqzbw/"> &lt;/a>&lt;/p>
-&lt;p>&lt;strong>Schedule:&lt;/strong>&lt;br>
-17:30 - Doors open&lt;br>
-18:00 - Word by HelSec&lt;br>
-18:10 - Juho Jauhiainen - Story of HelSec&lt;br>
-19:00 - Q&amp;amp;A, networking&lt;br>
-19:20 - Joona Hoikkala - Ffu-ffu-fuzzing fhe feb (Redux)&lt;br>
-20:00 - Q&amp;amp;A, food and networking hour + &lt;strong>Disobey ticket quiz&lt;/strong>&lt;br>
-21:00 - Joakim Tauren - Cyber Due Diligence: Lessons learned after 200 cases, the fun and the grind of buying companies&lt;br>
-21:45 - Q&amp;amp;A, networking&lt;br>
-22:10 - Shamil Afilov - A brief look at all things infostealers&lt;br>
-23:00 - Q&amp;amp;A, networking, end of stream&lt;br>
-23-&amp;gt; - B2B DJ Set by FinFog ThinFog&lt;/p>
-&lt;p>&lt;strong>Speaker bios:&lt;/strong>&lt;br>
-🔷 Juho Jauhiainen - is an experienced DFIR expert but that has nothing to do with this speech. In 2018, Juho started planning to set up HelSec together with Osku and the first meetup took place in January 2019. Until the end of 2023, Juho has contributed to HelSec&amp;rsquo;s board but will now take a back seat.&lt;br>
-The speech is also a farewell to the running of the organisation, at least for the time being.&lt;br>
-🔷 Joona Hoikkala - is a privacy and security enthusiast hacker and open so(u)rcerer involved in projects like Certbot, acme-dns and ffuf.&lt;br>
-🔷 Joakim Tauren - CISO, Small Business Segment, Visma. Dad, fly fisher, hobby wood worker, aspiring communicator. Helping companies in Visma to make better security decisions every day.&lt;br>
-🔷 Shamil Afilov - TurkuSec/PerSec Camp/CitySec, DisObey volunteer, Threat Intel at Nixu, Dad of twin rascals&lt;/p>
-&lt;p>&lt;strong>Streaming:&lt;/strong>&lt;br>
-Meetup will be streamed on Twitch: [&lt;a href="https://twitch.tv/helsec%5D(https://events.helsec.fi/redirect/?url=https%3A//twitch.tv/helsec%3AvkLheGTncgEMoRFAdQ81UFqvEiYGehvkzxo9QM6MUQo">https://twitch.tv/helsec](https://events.helsec.fi/redirect/?url=https%3A//twitch.tv/helsec%3AvkLheGTncgEMoRFAdQ81UFqvEiYGehvkzxo9QM6MUQo&lt;/a>)&lt;/p></description></item></channel></rss>
+&lt;p>❗️ If the weather looks bad, we might either cancel the meetup or move it to another location indoors.&lt;/p></description></item></channel></rss>
