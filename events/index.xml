@@ -1,17 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>HelSec Ry</title><link>https://helsec.fi/events/</link><description>Recent HelSec Ry events</description><language>en-us</language><atom:link href="https://helsec.fi/events/index.xml" rel="self" type="application/rss+xml"/><item><title>HelSec March 2026 Meetup</title><link>https://helsec.fi/events/2026-03-12_helsec_march_2026_meetup/</link><pubDate>Thu, 12 Mar 2026 17:30:00 +0200</pubDate><guid>https://helsec.fi/events/2026-03-12_helsec_march_2026_meetup/</guid><description>&lt;p>Welcome to HelSec March meetup!&lt;/p>
-&lt;p>This event is powered by &lt;strong>Locotech&lt;/strong> and &lt;strong>Palo Alto Networks&lt;/strong>.&lt;/p>
-&lt;p>We are excited to invite you to join us for a community evening filled with great talks, engaging discussions, and good company on &lt;strong>Thursday, March 12th&lt;/strong>. We are thrilled to have two fantastic speakers lined up for the event: &lt;strong>Shawkot Hossain&lt;/strong> and &lt;strong>Markus Hölsä&lt;/strong>!&lt;/p>
-&lt;p>If you get a ticket but your plans change, please remember to cancel it so that someone on the waitlist can grab your spot.&lt;/p>
-&lt;h2 id="schedule">Schedule&lt;/h2>
-&lt;p>17:30 - Doors open&lt;br>
-18:00 - Word by HelSec&lt;br>
-18:10 - Shawkot Hossain&lt;br>
-19:00 - Q&amp;amp;A, networking&lt;br>
-19:45 - Markus Hölsä&lt;br>
-20:30 - Q&amp;amp;A, networking&lt;br>
-22:00 - Event ends&lt;/p>
-&lt;h2 id="speaker-bio">Speaker bio&lt;/h2>
-&lt;p>Will be updated shortly!&lt;/p></description></item><item><title>HelSec January 2026 Meetup</title><link>https://helsec.fi/events/2026-01-16_helsec_january_2026_meetup/</link><pubDate>Fri, 16 Jan 2026 17:30:00 +0200</pubDate><guid>https://helsec.fi/events/2026-01-16_helsec_january_2026_meetup/</guid><description>&lt;p>HelSec January 2026 Meetup Non-Members Fri, Jan 16th, 2026&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>HelSec Ry</title><link>https://helsec.fi/events/</link><description>Recent HelSec Ry events</description><language>en-us</language><atom:link href="https://helsec.fi/events/index.xml" rel="self" type="application/rss+xml"/><item><title>HelSec January 2026 Meetup</title><link>https://helsec.fi/events/2026-01-16_helsec_january_2026_meetup/</link><pubDate>Fri, 16 Jan 2026 17:30:00 +0200</pubDate><guid>https://helsec.fi/events/2026-01-16_helsec_january_2026_meetup/</guid><description>&lt;p>HelSec January 2026 Meetup Non-Members Fri, Jan 16th, 2026&lt;/p>
 &lt;p>Welcome to the HelSec January meetup!&lt;/p>
 &lt;p>This event is powered by &lt;strong>Tietoturvatoimisto Monti&lt;/strong>.&lt;/p>
 &lt;p>We are excited to invite you to join us for a community evening filled with great talks, engaging discussions, and good company on Friday, January 16th. We are thrilled to have three fantastic speakers lined up for the event: &lt;strong>Henry Haverinen&lt;/strong>, &lt;strong>Tuomas Kaijanen&lt;/strong>, and &lt;strong>Sami Laiho&lt;/strong>!&lt;/p>
@@ -262,4 +249,9 @@ Commission and the EU parliament. Today Jos will talk about how current regulati
 &lt;p>Speaker bios:&lt;br>
 &lt;strong>Tuomas Aura&lt;/strong> - a professor of computer science and engineering with Aalto University, Finland where he also heads the Helsinki-Aalto Institute of Cybersecurity (HAIC). Tuomas received his M.Sc. and Ph.D. degrees from Helsinki University of Technology, Finland, in 1996 and 2000, respectively. His doctoral thesis was on authorization and availability in distributed systems. Before joining Aalto University, he worked with Microsoft Research, Cambridge, UK. He is interested in network and computer security and the security analysis of new technologies, and he has contributed to multiple Internet standards at the IETF.  &lt;/p>
 &lt;p>&lt;strong>Jacopo Bufalino&lt;/strong> - a doctoral researcher at the Department of Computer Science, Aalto University. Jacopo has always enjoyed breaking things, a passion that led him to develop his interest in security. After some years in industry working as DevOps, he moved to academia, focusing on container and cloud network security. In his free time, he likes playing tennis, reading, and traveling.&lt;/p>
-&lt;p>&lt;strong>Benjamin Särkkä&lt;/strong> - As a seasoned hacker with an insatiable curiosity, Benjamin excels at uncovering the root causes of complex cybersecurity challenges. Passionate about empowering others to succeed, he has dedicated his career to helping organizations build robust security defenses and foster a culture of resilience.&lt;/p></description></item></channel></rss>
+&lt;p>&lt;strong>Benjamin Särkkä&lt;/strong> - As a seasoned hacker with an insatiable curiosity, Benjamin excels at uncovering the root causes of complex cybersecurity challenges. Passionate about empowering others to succeed, he has dedicated his career to helping organizations build robust security defenses and foster a culture of resilience.&lt;/p></description></item><item><title>HelSec Summer 2024 Park Hangout</title><link>https://helsec.fi/events/2024-07-26_helsec_summer_2024_park_hangout/</link><pubDate>Fri, 26 Jul 2024 17:30:00 +0300</pubDate><guid>https://helsec.fi/events/2024-07-26_helsec_summer_2024_park_hangout/</guid><description>&lt;p>Welcome to the traditional HelSec Summer park hangout!&lt;/p>
+&lt;p>As usual during summer, we are having a more unformal meetup.&lt;br>
+It&amp;rsquo;s more about getting together, mingling and having a good time.&lt;br>
+There will be some beverages available, but it&amp;rsquo;s good to bring your own to make sure you keep hydrated.&lt;/p>
+&lt;p>17:30 - Gathering in Ruttopuisto (Old Chuch Park)&lt;/p>
+&lt;p>❗️ If the weather looks bad, we might either cancel the meetup or move it to another location indoors.&lt;/p></description></item></channel></rss>
